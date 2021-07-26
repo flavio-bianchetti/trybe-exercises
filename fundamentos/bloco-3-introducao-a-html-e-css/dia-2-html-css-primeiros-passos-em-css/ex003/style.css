@@ -1,0 +1,29 @@
+/*
+1 - Coloque todo o CSS criado até agora nos exercícios anteriores em um arquivo externo.
+*/
+body {
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 65px;
+    color: orange;
+    font-family: sans-serif;
+}
+
+p {
+    font-weight: 600;
+    font-size: 3em;
+    font-style: italic;
+}
+
+li {
+    background-color: yellow;
+    line-height: 1.5em;
+    text-align: center;
+    text-decoration: overline;
+}
+
+.background_color {
+    background-color: green;
+}
