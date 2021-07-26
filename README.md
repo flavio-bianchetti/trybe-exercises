@@ -12,29 +12,29 @@
 ## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
 
 
-### Bloco 1: [Introdução - Unix & Shell](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco_01_-_unix_e_bash/)
+### Bloco 1: [Introdução - Unix & Shell](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-1-unix-e-bash/)
 
 :heavy_check_mark: 1-3: _Unix & Shell- Parte 1_
 
 :heavy_check_mark: 1-4: _Unix & Shell- Parte 2_
 
 
-### Bloco 2: [Git & GitHub](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco_02_-_git_github_e_internet/2.1_-_Git_e_GitHub_%20-_o_%20que_e_%20e_%20para_%20que%20_serve/)
+### Bloco 2: [Git & GitHub](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-2-git-github-e-internet/)
 
 :heavy_check_mark: 2-1: _O que é e para que serve?_
 
-:white_check_mark: 2-2: _Entendendo os comandos_
+:heavy_check_mark: 2-2: _Entendendo os comandos_
 
-:white_check_mark: 2-3: _Internet - Entendendo como ela funciona_
+:heavy_check_mark: 2-3: _Internet - Entendendo como ela funciona_
 
 
-### Bloco 3: Introdução - HTML & CSS
+### Bloco 3: [Introdução - HTML & CSS](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-3-introducao-a-html-e-css/)
 
-:white_check_mark: 3-1: _HTML & CSS - Estruturas de página_
+:heavy_check_mark: 3-1: _HTML & CSS - Estruturas de página_
 
-:white_check_mark: 3-2: _HTML & CSS - Primeiros passos em CSS_
+:heavy_check_mark: 3-2: _HTML & CSS - Primeiros passos em CSS_
 
-:white_check_mark: 3-3: _HTML & CSS - Seletores e posicionamento_
+:heavy_check_mark: 3-3: _HTML & CSS - Seletores e posicionamento_
 
 :white_check_mark: 3-4: _HTML Semântico_
 
@@ -443,27 +443,27 @@
 ## Web development fundamentals :hourglass_flowing_sand:
 
 
-### Part 1: [Introduction - Unix & Shell](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco_01_-_unix_e_bash/)
+### Part 1: [Introduction - Unix & Shell](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-1-unix-e-bash/)
 
 :heavy_check_mark: 1-3: _Unix & Shell- Part 1_
 
 :heavy_check_mark: 1-4: _Unix & Shell- Part 2_
 
-### Part 2: [Git & GitHub](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco_02_-_git_github_e_internet/2.1_-_Git_e_GitHub_%20-_o_%20que_e_%20e_%20para_%20que%20_serve/)
+### Part 2: [Git & GitHub](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-2-git-github-e-internet/)
 
 :heavy_check_mark: 2-1: _What is it and what is it used for?_
 
-:white_check_mark: 2-2: _Understanding the commands_
+:heavy_check_mark: 2-2: _Understanding the commands_
 
-:white_check_mark: 2-3: _Internet - Understading how it works_
+:heavy_check_mark: 2-3: _Internet - Understading how it works_
 
-### Part 3: Introduction - HTML & CSS
+### Part 3: [Introduction - HTML & CSS](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-3-introducao-a-html-e-css/)
 
-:white_check_mark: 3-1: _HTML & CSS - Page structure_
+:heavy_check_mark: 3-1: _HTML & CSS - Page structure_
 
-:white_check_mark: 3-2: _HTML & CSS - First steps_
+:heavy_check_mark: 3-2: _HTML & CSS - First steps_
 
-:white_check_mark: 3-3: _HTML & CSS - Selectors and positioning_
+:heavy_check_mark: 3-3: _HTML & CSS - Selectors and positioning_
 
 :white_check_mark: 3-4: _HTML semantic elements_
 
