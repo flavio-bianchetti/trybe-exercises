@@ -36,7 +36,7 @@
 
 :heavy_check_mark: 3-3: _HTML & CSS - Seletores e posicionamento_
 
-:white_check_mark: 3-4: _HTML Semântico_
+:heavy_check_mark: 3-4: _HTML Semântico_
 
 :white_check_mark: 3-5: _Projeto - Lesson Learned_
   
@@ -465,7 +465,7 @@
 
 :heavy_check_mark: 3-3: _HTML & CSS - Selectors and positioning_
 
-:white_check_mark: 3-4: _HTML semantic elements_
+:heavy_check_mark: 3-4: _HTML semantic elements_
 
 :white_check_mark: 3-5: _Project - Lesson Learned_
   

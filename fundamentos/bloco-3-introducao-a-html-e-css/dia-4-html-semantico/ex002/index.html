@@ -1,0 +1,120 @@
+<!--
+    O objetivo desses exercícios é colocar em prática o que você acabou de aprender sobre HTML semântico .
+Para tal, criaremos uma página que apresenta um dos animais mais impressionantes que existem: o Stomatopoda. A estilização da página fica a seu critério.
+Para uma melhor organização, faça commits a cada tarefa concluída. Vamos aos exercícios:
+1 - Adicione um cabeçalho na página contendo o título Soco a 80km/h: Conheça o Stomatopoda .
+2 - Adicione um conjunto de links que representam a área de navegação do site.
+Crie um link chamado Página Inicial .
+Crie um link chamado Sobre .
+Crie um link chamado Contato .
+3 - Crie um artigo que vai conter os fatos interessantes sobre o Stomatopoda . O artigo terá o subtítulo Fatos sobre o Stomatopoda . Segue um site animal de inspiração para pegar fatos.
+4 - Divida o artigo em seções, organizando-o da seguinte forma:
+Uma primeira seção contendo informações gerais a respeito do animal. O subtítulo para essa seção fica a seu critério. É necessário que conste nessa seção seu nome científico , que é Odontodactylus scyllarus , em itálico. Além disso, é preciso que haja informação tabular a respeito de sua classificação científica, em específico: Reino , Filo , Subfilo , Classe , Subclasse e Ordem . Tais informações você consegue obter na Wikipedia.
+As outras seções dizem respeito aos fatos interessantes que você escolheu acerca do animal. Para cada fato escolhido você vai criar uma seção.
+Adicione, para cada seção, um subtítulo referente ao fato escolhido.
+Adicione, para cada seção, parágrafo(s) descrevendo o fato escolhido. Destaque características impressionantes referentes ao fato que você escolheu, de forma a reforçar a unicidade do Stomatopoda . Por exemplo: se você criar uma seção detalhando o soco potente do animal, seria interessante destacar a velocidade desse soco (80km/h) em negrito.
+Adicione, para cada seção, uma imagem, como forma de ilustrar o fato.
+Adicione, por fim, uma seção de referências bibliográficas, contendo uma lista de todos os links que foram usados como base para compilar a página em questão.
+5 - Adicione um conteúdo adjacente ao artigo, disponibilizando um link para este vídeo, que mostra o animal em ação.
+6 - Adicione um rodapé na página, mostrando algo do gênero:
+Copiar
+"Conteúdo compilado por <insere seu nome>, <ano atual>".
+Obs: para esse exercício, é obrigatório fazer uso de, no mínimo , 6 elementos com as seguintes tags: header , nav , article , section , h1 , h2 , h3, aside , footer , table e img .
+
+-->
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" type="text/css" href="./style.css">
+    <title>Stomatopoda</title>
+  </head>
+  <body>
+    <header class="headerStomatopoda">
+            <h1>Soco a 80 km/h: Conheça o Stomatopoda</h1>
+    </header>
+    <nav class="navStomatopoda">
+        <section class="sectionNav"></section>
+            <ul type="none">
+                <li><a href="#initial">Página Inicial</a></li>
+                <li><a href="#about">Sobre</a></li>
+                <li><a href="#contact">Contato</a></li>
+            </ul>
+        </section>
+    </nav>
+    <main>
+        <article id="initial" class="articleStomatopoda">
+            <h2>Fatos sobre o Stomatopoda</h2>
+            <section class="sectionAbout">
+                <h3><i>Odontodactylus scyllarus</i></h3>
+                <img width="400" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Odontodactylus_scyllarus1.jpg/250px-Odontodactylus_scyllarus1.jpg" alt="Imagem frontal do Stomatopoda">
+                <p>Stomatopoda (ou estomatópode),nome científico <i>Odontodactylus scyllarus</i>, chamados popularmente de tamarutacas ou de lacraias-do-mar no Brasil, é uma ordem de crustáceos marinhos da subclasse Hoplocarida, que agrupa cerca de 400 espécies, caracterizadas principalmente pela morfologia da segunda pata torácica, que é modificada em apêndice subquelado, lembrando uma pata de louva-a-deus.</p>
+                <h3>Classificação científica</h3>
+                <table border="1" cellpadding="8" cellspacing="2">
+                    <tr>
+                        <td>Reino</td>
+                        <td>Filo</td>
+                        <td>Subfilo</td>
+                        <td>Classe</td>
+                        <td>Subclasse</td>
+                        <td>Ordem</td>
+                    </tr>
+                    <tr>
+                        <td>Animalia</td>
+                        <td>Arthropoda</td>
+                        <td>Crustacea</td>
+                        <td>Malacostraca</td>
+                        <td>Hoplocarida</td>
+                        <td>Stomatopoda</td>
+                    </tr>
+                </table>
+            </section>
+            <section class="sectionCaracteristic1">
+                <h3>Caçador Voraz</h3>
+                <img width="400"src="https://pm1.narvii.com/6502/0872de236946b41075bb4e8013a692a1de60251f_hq.jpg" alt="Imagem lateral do Stomatopoda">
+                <p>Os estomatópodes são predadores ativos que <strong>caçam presas com o auxílio de um sentido de visão muito apurado</strong> e capaz de interpretar polarização no espectro ultravioleta e infravermelho.</p>
+            </section>
+            <section class="sectionCaracteristic2">
+                <h3>O Pequeno Guerreiro</h3>
+                <img width="400" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Peacock_shrimp_at_manta_reef_dsc04367.jpg/800px-Peacock_shrimp_at_manta_reef_dsc04367.jpg" alt="Imagem de cima do Stomatopoda">
+                <p>Apresentam uma grande variação de <strong>tamanho</strong>, que pode ir <strong>de poucos milímetros até aproximadamente 40 cm</strong> nas espécies maiores. Eles vivem em fundo consolidado, lodoso ou ainda arenoso, onde cavam seus buracos ou aproveitam-se dos orifícios deixados por outros animais para neles se instalar.
+                </p>
+            </section>
+            <section class="sectionCaracteristic3">
+                <h3>Atacante Carnívoro</h3>    
+                <img width="400" src="https://static.inaturalist.org/photos/31435105/large.jpg?1550206499" alt="Imagem frontal do Stomatopoda se alimentando">
+                <p><strong>São animais exclusivamente carnívoros</strong>, alimentando-se de camarões, caranguejos, moluscos, peixes e até mesmo outros da mesma ordem. <strong></strong>O segundo par de patas</strong>, muito desenvolvido, é <strong>usado tanto para atacar a presa como para se defender</strong>.</p>
+            </section>
+            <section class="sectionCaracteristic4">
+                <h3>O Soco é uma Arma</h3>
+                <img width="400" src="https://scontent.fiza1-1.fna.fbcdn.net/v/t1.18169-9/29792880_603312906682243_1349995412057551731_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=973b4a&_nc_ohc=RdiYXaR7_LwAX9ocfeB&_nc_ht=scontent.fiza1-1.fna&oh=9f60da9532c69951aba1547a01fa453b&oe=61258188" alt="Imagem perfil esquerdo do Stomatopoda">
+                <p>As maiores esmagadoras, tais como exemplares de <i>Odontodactylus scyllarus</i>, são capazes de desferir um dos mais rápidos e violentos golpes do reino animal, um <strong>soco que pode apresentar a velocidade de um tiro calibre .22 (equivalente a 720 km/h)</strong> e uma pressão de impacto de 600 N/cm². Essa força esmagadora é a responsável pelo seu título de "lagosta-boxeadora" e é capaz de facilmente quebrar a carapaça de um caranguejo, as conchas duras e calcificadas de gastrópodes ou até mesmo quebrar o vidro reforçado de um aquário.</p>
+            </section>
+            <section class="sectionCaracteristic5">
+                <h3>Outras características</h3>
+                <img width="400" src="https://naturezaterraquea.files.wordpress.com/2019/04/794px-odontodactylusscyllarus.jpg" alt="Imagem perfil direito do Stomatopoda">
+                <p>O urópodo, quando aberto, também funciona para defesa, como um escudo, fechando a galeria em que o animal esteja instalado. <strong>A fêmea</strong> desova no local onde se abriga e, <strong>em caso de perigo, enrola os ovos como uma bola, prendendo-os junto ao corpo</strong> até encontrar um abrigo mais protegido.</p>
+                <p>Também conhecidas como esquilas ou lagosta-boxeadora, <strong>espalhadas pelas costas dos mares tropicais e subtropicais</strong>. Além das patas, elas apresentam uma silhueta característica, devido ao grande comprimento aparentemente de seu abdómen. Os ovos ficam ligados por uma massa gelatinosa que a mãe carrega contra o ventre até que eclodem, limpando-os sem parar.</p>
+                <p>São animais que <strong>apresentam comportamentos sociais muito variados</strong>, desde ameaças visuais contra predadores até comportamentos de côrte. De acordo com a anatomia da sua pata raptorial é possível distinguir entre dois grupos funcionais, as perfuradoras (spearers) ou as esmagadoras (smashers), sendo que cada um dos tipos apresenta sua própria variação comportamental e até mesmo de habitat.</p>
+                <p>Estomatópodes <strong>podem ser encontrados em quase todo o litoral brasileiro</strong>, mas não são animais fáceis de se observar pelos seus hábitos mais furtivos. Devem ser manuseados com muita cautela pois são animais preparados para se defender com força, caso sejam incomodados.</p>
+            </section>
+            <section class="sectionLinkVideo">
+                <h3>Luz, Câmera, Ação!!!</h3>
+                <p>Veja o Stomatopoda em ação <a href="https://youtu.be/E0Li1k5hGBE" target="_blank">neste link</a>!</p>
+            </section>
+            <section id="about" class="sectionBibliography">
+                <h3>Referências Bibliográficas</h3>
+                <ul type="none" >
+                    <li><a href="https://pt.wikipedia.org/wiki/Stomatopoda">Wikipedia - Stomatopoda</a></li>
+                    <li><a href="https://aminoapps.com/c/mundo-animal-pt-br/page/blog/stomatopoda/5XXL_DQcVugBXa7VK4LzdwnMYQg7GXQDX">AminoApps - Stomatopoda</a></li>
+                    <li><a href="https://naturezaterraquea.wordpress.com/tag/stomatopoda/">Sexta Selvagem: Tamarutaca-Pavão</a></li>
+                </ul>
+            </section>
+        </article>
+    </main>
+    <footer id="contact" class="footerStomatopoda">
+        <p>Conteúdo compilado por <strong><a href="http://flavio-bianchetti.github.io/" target="_blank">Flávio José Bianchetti</a></strong>, <strong>2021</strong>.</p>
+    </footer>
+  </body>
+</html>
