@@ -38,16 +38,16 @@
 
 :heavy_check_mark: 3-4: _HTML Semântico_
 
-:white_check_mark: 3-5: _Projeto - Lesson Learned_
+:heavy_check_mark: 3-5: _Projeto - Lesson Learned_
   
 
-### Bloco 4: Introdução - JavaScript e Lógica
+### Bloco 4: [Introdução - JavaScript e Lógica](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-4-introducao-a-javascript-e-logica-de-programacao/)
 
-:white_check_mark:  4-1: _JavaScript - Primeiros passos_
+:heavy_check_mark:  4-1: _JavaScript - Primeiros passos_
 
-:white_check_mark: 4-2: _JavaScript - Array e loop For_
+:heavy_check_mark: 4-2: _JavaScript - Array e loop For_
 
-:white_check_mark: 4-3: _JavaScript - Lógica de Programação e Algoritmos_
+:heavy_check_mark: 4-3: _JavaScript - Lógica de Programação e Algoritmos_
 
 :white_check_mark: 4-4: _JavaScript - Objetos e funções_
 
@@ -467,15 +467,15 @@
 
 :heavy_check_mark: 3-4: _HTML semantic elements_
 
-:white_check_mark: 3-5: _Project - Lesson Learned_
+:heavy_check_mark: 3-5: _Project - Lesson Learned_
   
-### Part 4: Introdução - JavaScript e Logic
+### Part 4: [Introduction - JavaScript e Logic](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-4-introducao-a-javascript-e-logica-de-programacao/)
 
-:white_check_mark:  4-1: _JavaScript - First steps_
+:heavy_check_mark:  4-1: _JavaScript - First steps_
 
-:white_check_mark: 4-2: _JavaScript - Array e loop For_
+:heavy_check_mark: 4-2: _JavaScript - Array e loop For_
 
-:white_check_mark: 4-3: _JavaScript - Programming Logic and Algorithms_
+:heavy_check_mark: 4-3: _JavaScript - Programming Logic and Algorithms_
 
 :white_check_mark: 4-4: _JavaScript - Objects and functions_
 
