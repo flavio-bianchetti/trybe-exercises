@@ -16,7 +16,7 @@
 
 <img src="./lessons_learned_project.png">
 
-Confira o resultado deste e de outros projetos no <a href="https://flavio-bianchetti.github.io/" target="_blank">portifólio</a>.
+Confira o resultado deste e de outros projetos no <a target="_blank" href="https://flavio-bianchetti.github.io/">portifólio</a>.
 
 
 # English version - Trybe
@@ -36,4 +36,4 @@ Confira o resultado deste e de outros projetos no <a href="https://flavio-bianch
 
 _Picture above_
 
-Check out the results of this and other projects in the <a href="https://flavio-bianchetti.github.io/" target="_blank">portfolio</a>.
+Check out the results of this and other projects in the <a target="_blank" href="https://flavio-bianchetti.github.io/">portfolio</a>.
