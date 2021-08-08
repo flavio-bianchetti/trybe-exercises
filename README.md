@@ -49,7 +49,7 @@
 
 :heavy_check_mark: 4-3: _JavaScript - Lógica de Programação e Algoritmos_
 
-:white_check_mark: 4-4: _JavaScript - Objetos e funções_
+:heavy_check_mark: 4-4: _JavaScript - Objetos e funções_
 
 :white_check_mark: 4-5: _Projeto - Playground Functions_
 
@@ -477,7 +477,7 @@
 
 :heavy_check_mark: 4-3: _JavaScript - Programming Logic and Algorithms_
 
-:white_check_mark: 4-4: _JavaScript - Objects and functions_
+:heavy_check_mark: 4-4: _JavaScript - Objects and functions_
 
 :white_check_mark: 4-5: _Project - Playground Functions_
 
