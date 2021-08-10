@@ -32,7 +32,7 @@ Confira o resultado deste e de outros projetos no <a target="_blank" href="https
 
 **Descriptions:** understand how the structure (HTML) of a page works, understand how the style (CSS) is applied to the page, build pages using HTML and CSS, perform maintenance on existing pages and apply Layout and Box Model in the practice.
 
-## Grade on Lessons Learned Project
+## Score on Lessons Learned Project
 
 _Picture above_
 

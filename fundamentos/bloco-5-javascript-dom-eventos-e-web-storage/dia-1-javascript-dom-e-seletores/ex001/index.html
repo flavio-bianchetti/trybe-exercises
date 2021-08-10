@@ -1,0 +1,27 @@
+<!--
+  1 - Recupere o elemento que contém o título da página e faça algo com ele, como alterá-lo para o nome do seu filme favorito.
+  2 - Agora recupere o segundo parágrafo e use sua criatividade para alterá-lo.
+  3 - Por fim, recupere o subtítulo e altere-o também.
+-->
+
+<!DOCTYPE html>
+<html>
+  <body>
+    <header>
+      <h2 id="page-title">Título</h2>
+      <p id="paragraph">Dê uma cor para este parágrafo!</p>
+      <h4 id="subtitle">Subtítulo</h4>
+      <p id="second-paragraph">Segundo parágrafo!</p>
+    </header>
+    <script>
+      const paragraph = document.getElementById("paragraph");
+      paragraph.style.color = "red";
+      /* Este exercício*/
+      document.getElementById("page-title").innerHTML = "Star Trek";
+      document.getElementById("paragraph").innerHTML = "Spock is vulcan";
+      document.getElementById("paragraph").style.color = "blue";
+      document.getElementById("subtitle").innerHTML = "Aboult the USS Enterprise (NCC-1701)"
+      document.getElementById("second-paragraph").innerHTML = "The USS Enterprise (NCC-1701) was a Constitution-class starship that served under five captains from 2245 to 2285, including Robert April, Christopher Pike, Will Decker, and in later years Spock. Its most famous commander was Captain James T. Kirk, whose five-year mission aboard the Enterprise became legendary."
+    </script>
+  </body>
+</html>
