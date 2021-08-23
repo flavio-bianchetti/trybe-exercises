@@ -1,0 +1,26 @@
+<!--
+  1 - substitua todas as funções que você usou no exercício anterior por querySelector e/ou querySelectorAll .
+-->
+
+<!DOCTYPE html>
+<html>
+  <body>
+    <header>
+      <h2 id="page-title">Título</h2>
+      <p id="paragraph" class="paragraph">Dê uma cor para este parágrafo!</p>
+      <h4 id="subtitle">Subtítulo</h4>
+      <p id="second-paragraph" class="paragraph"></p>
+    </header>
+    <script>
+      const paragraph = document.querySelector('#paragraph');
+      paragraph.style.color = "red";
+      document.querySelector("#page-title").innerHTML = "Star Trek";
+      document.querySelector(".paragraph").innerHTML = "Spock is vulcan";
+      document.querySelectorAll(".paragraph")[1].style.color = "blue";
+      document.querySelector("#subtitle").innerHTML = "Aboult the USS Enterprise (NCC-1701)"
+      document.querySelector("#second-paragraph").innerHTML = "The USS Enterprise (NCC-1701) was a Constitution-class starship that served under five captains from 2245 to 2285, including Robert April, Christopher Pike, Will Decker, and in later years Spock. Its most famous commander was Captain James T. Kirk, whose five-year mission aboard the Enterprise became legendary."
+      const subtitle = document.querySelector("#subtitle");
+      subtitle.style.color = "green";
+    </script>
+  </body>
+</html>

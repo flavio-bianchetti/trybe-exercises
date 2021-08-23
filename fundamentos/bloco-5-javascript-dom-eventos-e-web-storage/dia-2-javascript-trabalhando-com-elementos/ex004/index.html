@@ -1,0 +1,154 @@
+<!--
+  1 - Adicione a tag h1 com o texto Exercício 5.2 - JavaScript DOM como filho da tag body ;
+  2 - Adicione a tag main com a classe main-content como filho da tag body ;
+  3 - Adicione a tag section com a classe center-content como filho da tag main criada no passo 2;
+  4 - Adicione a tag p como filho do section criado no passo 3 e coloque algum texto;
+  5 - Adicione a tag section com a classe left-content como filho da tag main criada no passo 2;
+  6 - Adicione a tag section com a classe right-content como filho da tag main criada no passo 2;
+  7 - Adicione uma imagem com src configurado para o valor https://picsum.photos/200 e classe small-image . Esse elemento deve ser filho do section criado no passo 5;
+  8 - Adicione uma lista não ordenada com os valores de 1 a 10 por extenso, ou seja, um , dois , três , ... como valores da lista. Essa lista deve ser filha do section criado no passo 6;
+  9 - Adicione 3 tags h3 , todas sendo filhas do main criado no passo 2.
+  10- Adicione a classe title na tag h1 criada;
+  11- Adicione a classe description nas 3 tags h3 criadas;
+  12- Remova a section criado no passo 5 (aquele que possui a classe left-content ). Utilize a função .removeChild() ;
+  13- Centralize a section criado no passo 6 (aquele que possui a classe right-content ). Dica: para centralizar, basta configurar o margin-right: auto da section ;
+  14- Troque a cor de fundo do elemento pai da section criada no passo 3 (aquela que possui a classe center-content ) para a cor verde;
+  15- Remova os dois últimos elementos ( nove e dez ) da lista criada no passo 8.
+-->
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Exercício 5.2</title>
+    <style>
+      section {
+        border-color: black;
+        border-style: solid;
+      }
+
+      .title {
+        text-align: center;
+      }
+
+      .main-content {
+        background-color: yellow;
+      }
+
+      .main-content .center-content {
+        background-color: red;
+        width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      .main-content .center-content p {
+        font-style: italic;
+      }
+
+      .main-content .left-content {
+        background-color: green;
+        width: 60%;
+        margin-left: 0;
+        margin-right: auto;
+      }
+
+      .main-content .left-content .small-image {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 100%;
+      }
+
+      .main-content .right-content {
+        background-color: blue;
+        width: 60%;
+        margin-left: auto;
+        margin-right: 0;
+      }
+
+      .main-content .description {
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <script>
+      /* Exercício 1 */
+      let h1 = document.createElement('h1');
+      h1.innerHTML ='Exercício 5.2 - JavaScript DOM';
+      document.body.appendChild(h1);
+
+      /* Exercício 2 */
+      let mainContent = document.createElement('main');
+      mainContent.className = 'main-content';
+      document.body.appendChild(mainContent);
+
+      /* Exercício 3 */
+      let centerContent = document.createElement('section');
+      centerContent.className = 'center-content';
+      let main = document.querySelector('.main-content');
+      main.appendChild(centerContent);
+
+      /* Exercício 4 */
+      let pharagrapyCenterContent = document.createElement('p');
+      pharagrapyCenterContent.innerText= "Nunca deixe para amanhã o que você pode fazer hoje!";
+      main.firstElementChild.appendChild(pharagrapyCenterContent);
+
+      /* Exercício 5 */
+      let leftContent = document.createElement('section');
+      leftContent.className = 'left-content';
+      main.appendChild(leftContent);
+
+      /* Exercício 6 */
+      let rightContent = document.createElement('section');
+      rightContent.className = 'right-content';
+      main.appendChild(rightContent);
+
+      /* Exercício 7 */
+      let image = document.createElement('img');
+      image.src = 'https://picsum.photos/200';
+      image.className = 'small-image';
+      main.children[1].appendChild(image);
+
+      /* Exercício 8 */
+      let orderedList = ['um', 'dois', 'três', 'quatro', 'cinco', 'seis', 'sete', 'oito', 'nove', 'dez'];
+      let ulList = document.createElement('ul');
+      main.children[2].appendChild(ulList);
+      for (let index of orderedList) {
+        let liList = document.createElement('li');
+        liList.innerText = index;
+
+        main.children[2].firstChild.appendChild(liList);
+      }
+
+      /* Exercício 9 */
+      for (let index = 0; index < 3; index += 1) {
+        let tagH3 = document.createElement('h3');
+        main.appendChild(tagH3);
+      }
+
+      /* Exercício 10 */
+      h1.className = 'title';
+
+      /* Exercício 11 */
+      for (let index = 0; index < main.getElementsByTagName('h3').length; index += 1) {
+        main.getElementsByTagName('h3')[index].className = 'description';
+      }
+
+      /* Exercício 12 */
+      main.removeChild(main.children[1]);
+
+      /* Exercício 13 */
+      main.children[1].style.marginRight = 'auto';
+
+      /* Exercício 14 */
+      main.children[0].style.backgroundColor = 'green';
+
+      /* Exercício 15 */
+      main.children[1].firstChild.lastChild.remove();
+      main.children[1].firstChild.lastChild.remove();
+    </script>
+  </body>
+</html>

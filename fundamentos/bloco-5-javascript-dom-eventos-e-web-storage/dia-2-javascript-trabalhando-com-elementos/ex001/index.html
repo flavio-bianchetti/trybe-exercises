@@ -1,0 +1,64 @@
+<!--
+    Você deverá fazer tudo a seguir usando somente JavaScript .
+    1 - Acesse o elemento elementoOndeVoceEsta .
+    2 - Acesse pai a partir de elementoOndeVoceEsta e adicione uma color a ele.
+    3 - Acesse o primeiroFilhoDoFilho e adicione um texto a ele. Você se lembra dos vídeos da aula anterior, como fazer isso?
+    4 - Acesse o primeiroFilho a partir de pai .
+    5 - Agora acesse o primeiroFilho a partir de elementoOndeVoceEsta .
+    6 - Agora acesse o texto Atenção! a partir de elementoOndeVoceEsta .
+    7 - Agora acesse o terceiroFilho a partir de elementoOndeVoceEsta .
+    8 - Agora acesse o terceiroFilho a partir de pai .
+
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <main id="paiDoPai">
+        <section id="pai">
+          <section id="primeiroFilho"></section>
+          <section id="elementoOndeVoceEsta">
+            <section id="primeiroFilhoDoFilho"></section>
+            <section id="segundoEUltimoFilhoDoFilho"></section>
+          </section>
+          Atenção!
+          <section id="terceiroFilho"></section>
+          <section id="quartoEUltimoFilho"></section>
+        </section>
+      </main>
+      <script>
+        /* Exercício 1 */
+        const elementoOndeVoceEsta = document.getElementById('elementoOndeVoceEsta');
+        elementoOndeVoceEsta;
+
+        /* Exercício 2 */
+        elementoOndeVoceEsta.parentElement.style.backgroundColor = "blue";
+
+        /* Exercício 3 */
+        elementoOndeVoceEsta.children[0].innerText = "Flávio esteve aqui.";
+
+        /* Exercício 4 */
+        const pai = document.querySelector('#pai');
+        pai.firstChild;
+
+        /* Exercício 5 */
+        elementoOndeVoceEsta.previousElementSibling;
+
+        /* Exercício 6 */
+        elementoOndeVoceEsta.nextSibling;
+
+        /* Exercício 7 */
+        elementoOndeVoceEsta.nextElementSibling;
+
+        /* Exercício 8 */
+        pai.children[2];
+
+    </script>
+</body>
+</html>

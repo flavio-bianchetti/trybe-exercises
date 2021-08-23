@@ -1,0 +1,33 @@
+<!--
+1 - Adicione uma classe igual para os dois parágrafos.
+2 - Recupere os seus parágrafos via código JavaScript , usando a função getElementsByClassName ;
+3 - Altere algum estilo do primeiro deles.
+4 - Recupere o subtítulo e altere a cor dele usando a função getElementsByTagName .
+-->
+
+<!DOCTYPE html>
+<html>
+  <body>
+    <header>
+      <h2 id="page-title">Título</h2>
+      <p id="paragraph" class="paragraph">Dê uma cor para este parágrafo!</p>
+      <h4 id="subtitle">Subtítulo</h4>
+      <p id="second-paragraph" class="paragraph">Segundo parágrafo!</p>
+    </header>
+    <script>
+      const paragraph = document.getElementById("paragraph");
+      paragraph.style.color = "red";
+      document.getElementById("page-title").innerHTML = "Star Trek";
+      document.getElementById("paragraph").innerHTML = "Spock is vulcan";
+      document.getElementById("paragraph").style.color = "blue";
+      document.getElementById("subtitle").innerHTML = "Aboult the USS Enterprise (NCC-1701)"
+      document.getElementById("second-paragraph").innerHTML = "The USS Enterprise (NCC-1701) was a Constitution-class starship that served under five captains from 2245 to 2285, including Robert April, Christopher Pike, Will Decker, and in later years Spock. Its most famous commander was Captain James T. Kirk, whose five-year mission aboard the Enterprise became legendary."
+      /*Este exercício*/
+      const class_paragraph = document.getElementsByClassName("paragraph");
+      class_paragraph[0].style.color = "orange";
+      const subtitle = document.getElementsByTagName("h4");
+      subtitle[0].style.color = "green";
+    
+    </script>
+  </body>
+</html>
