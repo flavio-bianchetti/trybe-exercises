@@ -1,0 +1,35 @@
+<!--
+1 - Adicione os campos de entrada para email e senha.
+2 - Adicione um checkbox com o texto Lembre-me .
+3 - Adicione um botão com o texto Entrar .
+4 - Adicione os placeholder Digite seu email e Digite sua senha para os campos de email e senha.
+5 - Adicione o atributo required para os campos de email e senha.
+6 - Adicione o atributo autocomplete="off" para o campo de email.
+7 - Adicione o atributo autofocus para o campo de email.
+-->
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+</head>
+<body>
+    <form action="" method="GET" enctype="multipart/form-data">
+        <label for="userMail">User mail: </label>
+        <input name="userMail" id="userMail" class="" type="email" placeholder="Insert your e-mail" required autocomplete="off" autofocus>
+        <br>
+        <br>
+        <label for="userPass">Password: </label>
+        <input name="userPass" id="userPass" class="" type="password" placeholder="Insert your password" required>
+        <br>
+        <br>
+        <label for="rememberMe"><input name="rememberMe" type="checkbox" id="rememberMe"> remember me</label>
+        <br>
+        <br>
+        <button type="submit">Login</button>
+    </form>
+</body>
+</html>

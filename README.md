@@ -51,22 +51,22 @@
 
 :heavy_check_mark: 4-4: _JavaScript - Objetos e funções_
 
-:white_check_mark: 4-5: _Projeto - Playground Functions_
+:heavy_check_mark: 4-5: _Projeto - Playground Functions_
 
   
-### Bloco 5: Javascript: DOM, Eventos e Web Storage
+### [Bloco 5: Javascript: DOM, Eventos e Web Storage](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-5-javascript-dom-eventos-e-web-storage/)
 
-:white_check_mark: 5-1: _JavaScript - DOM e seletores_
+:heavy_check_mark: 5-1: _JavaScript - DOM e seletores_
 
-:white_check_mark: 5-2: _JavaScript - Trabalhando com elementos_
+:heavy_check_mark: 5-2: _JavaScript - Trabalhando com elementos_
 
-:white_check_mark: 5-3: _JavaScript - Eventos_
+:heavy_check_mark: 5-3: _JavaScript - Eventos_
 
-:white_check_mark:  5-4: _JavaScript - Web Storage_
+:heavy_check_mark:  5-4: _JavaScript - Web Storage_
 
-:white_check_mark: 5.5: _Projeto: Arte com Pixels_
+:heavy_check_mark: 5.5: _Projeto: Arte com Pixels_
 
-:white_check_mark: 5-6: _Projeto - Lista de tarefas_
+:heavy_check_mark: 5-6: _Projeto - Lista de tarefas_
 
 :white_check_mark: 5-7: _Projeto Bônus - Meme Generator_
 
@@ -75,15 +75,15 @@
 :white_check_mark: 5-7: _Projeto Bônus - Carta Misteriosa_
 
 
-### Bloco 6: HTML & CSS avançado
+### [Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-6-html-e-css-forms-flexbox-e-responsivo/)
 
-:white_check_mark: 6-1: _HTML & CSS - Forms_
+:heavy_check_mark: 6-1: _HTML & CSS - Forms_
 
-:white_check_mark: 6-2: _Bibliotecas JavaScript e Frameworks CSS_
+:heavy_check_mark: 6-2: _Bibliotecas JavaScript e Frameworks CSS_
 
-:white_check_mark: 6-3: _CSS Flexbox - Part 1_
+:heavy_check_mark: 6-3: _CSS Flexbox - Part 1_
 
-:white_check_mark: 6-4: _CSS Flexbox - Part 2_
+:heavy_check_mark: 6-4: _CSS Flexbox - Part 2_
 
 :white_check_mark: 6-5: _CSS Responsivo - Mobile First_
 
@@ -479,22 +479,22 @@
 
 :heavy_check_mark: 4-4: _JavaScript - Objects and functions_
 
-:white_check_mark: 4-5: _Project - Playground Functions_
+:heavy_check_mark: 4-5: _Project - Playground Functions_
 
 
-### Part 5: Javascript: DOM, Events e Web Storage
+### [Part 5: Javascript: DOM, Events e Web Storage](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-5-javascript-dom-eventos-e-web-storage/)
 
-:white_check_mark: 5-1: _JavaScript - DOM and selectors_
+:heavy_check_mark: 5-1: _JavaScript - DOM and selectors_
 
-:white_check_mark: 5-2: _JavaScript - Working with elements_
+:heavy_check_mark: 5-2: _JavaScript - Working with elements_
 
-:white_check_mark: 5-3: _JavaScript - Events_
+:heavy_check_mark: 5-3: _JavaScript - Events_
 
-:white_check_mark:  5-4: _JavaScript - Web Storage_
+:heavy_check_mark:  5-4: _JavaScript - Web Storage_
 
-:white_check_mark: 5.5: _Project: Art with Pixels_
+:heavy_check_mark: 5.5: _Project: Art with Pixels_
 
-:white_check_mark: 5-6: _Project - To Do List_
+:heavy_check_mark: 5-6: _Project - To Do List_
 
 :white_check_mark: 5-7: _Bonus Project - Meme Generator_
 
@@ -503,15 +503,15 @@
 :white_check_mark: 5-7: _Bonus Project - Mysterious Card_
 
 
-### Part 6: HTML & CSS avançado
+### Part 6: HTML and CSS: Forms, Flexbox and Responsive
 
-:white_check_mark: 6-1: _HTML & CSS - Forms_
+:heavy_check_mark: 6-1: _HTML & CSS - Forms_
 
-:white_check_mark: 6-2: _JavaScript libraries and CSS Frameworks_
+:heavy_check_mark: 6-2: _JavaScript libraries and CSS Frameworks_
 
-:white_check_mark: 6-3: _CSS Flexbox - Part 1_
+:heavy_check_mark: 6-3: _CSS Flexbox - Part 1_
 
-:white_check_mark: 6-4: _CSS Flexbox - Part 2_
+:heavy_check_mark: 6-4: _CSS Flexbox - Part 2_
 
 :white_check_mark: 6-5: _CSS Responsive - Mobile First_
 

@@ -1,0 +1,15 @@
+:root {
+  --color1-100: rgba(102, 16, 242, .1);
+  --color1-300: rgba(102, 16, 242, .3);
+  --color1-500: rgb(102, 16, 242, .5);
+}
+
+header {
+  background-color: var(--color1-300);
+  border-radius: 10px;
+}
+
+.div-form {
+  background-color: var(--color1-100);
+  border-radius: 10px;
+}

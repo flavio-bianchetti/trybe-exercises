@@ -1,0 +1,127 @@
+<!--
+Vamos criar um formulário de cadastro de currículo com base na especificação a seguir:
+Faça as validações inicialmente pelo HTML
+Crie um <fieldset> para os seguintes dados pessoais:
+Nome - Texto
+Limite de 40 caracteres
+Campo obrigatório
+Email - Texto
+Limite de 50 caracteres
+Campo obrigatório
+CPF - Texto
+Limite de 11 caracteres
+Campo obrigatório
+Endereço - Texto
+Limite de 200 caracteres
+Campo obrigatório
+Cidade - Texto
+Limite de 28 caracteres
+Campo obrigatório
+Estado - Select
+Todos os estados do Brasil
+Utilize estruturas de repetição via JavaScript para gerar os <option>
+Campo obrigatório
+Tipo - Radio Button
+Casa, Apartamento
+Campo obrigatório
+Crie outro <fieldset> para dados do seu último emprego
+Resumo do currículo - TextArea
+Limite de 1000 caracteres
+Campo obrigatório
+Cargo - Texto
+Limite de 40 caracteres
+Campo obrigatório
+Descrição do cargo - Texto
+Limite de 500 caracteres
+Campo obrigatório
+Data de início - Texto
+Verificar o formato da data dd/mm/aaaa .
+O dia deve ser > 0 e <= 31.
+O mês deve ser > 0 e <= 12.
+O ano não pode ser negativo.
+Caso alguma das condições seja inválida no momento do envio do formulário, exibir via alert uma mensagem de erro contextualizada.
+Campo obrigatório
+Logo abaixo do formulário, crie um botão que:
+Chame uma função JavaScript e interrompa o fluxo automático do form utilizando o preventDefault() . Note que isso vai impedir as validações do HTML ao fazer o submit
+Implemente, agora, no Javascript , as validações que foram pedidas ao longo da montagem do formulário.
+Caso todos os dados sejam válidos, monte uma <div> com o consolidado dos dados que foram inseridos no formulário.
+Caso haja algum dado inválido, mostre em uma <div> uma mensagem de erro. Se o erro for na Data de Início , a mensagem deve ser contextualizada.
+Crie um botão Limpar que limpa todos os campos do formulário e a <div> com seu currículo também.
+-->
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="./styles.css">
+    <title>Currículo</title>
+</head>
+<body>
+    <header>
+        <h1>Currículo</h1>
+    </header>
+    <form action="" method="GET" enctype="multipart/form-data">
+        <fieldset>
+            <legend>Meus dados:</legend>
+            <div>
+                <label for="name">Nome: </label>
+                <input type="text" name="name" id="name" max="40" required>
+            </div>
+            <div>
+                <label for="email">E-mail: </label>
+                <input type="text" name="email" id="email" max="50" required>
+            </div>
+            <div>
+                <label for="cpf">CPF: </label>
+                <input type="text" name="cpf" id="cpf" max="11" required>
+            </div>
+            <div>
+                <label for="address">Endereço: </label>
+                <input type="text" name="address" id="address" max="200" required>
+            </div>
+            <div>
+                <label for="city">Cidade: </label>
+                <input type="text" name="city" id="city" max="28" required>
+            </div>
+            <div>
+                <label for="state">Estado:</label>
+                <select name="state" id="state" required>
+                </select>
+            </div>
+            <div>
+                <label for="">Tipo: </label>
+                <input type="radio" name="local" id="house" checked required>
+                <label for="house">Casa</label>
+                <input type="radio" name="local" id="apartament" required>
+                <label for="apartament">Apartamento</label>
+            </div>
+        </fieldset>
+        <fieldset>
+            <legend>Ultimo Emprego: </legend>
+            <div>
+                <label for="resume">Resumo do currículo</label>
+                <textarea type="textarea" name="resume" id="resume" rows="10" max="1000" required></textarea>
+            </div>
+            <div>
+                <label for="office">Cargo: </label>
+                <input type="text" name="office" id="office" max="40" required>
+            </div>
+            <div>
+                <label for="description">Descrição do Cargo</label>
+                <input type="text" name="description" id="description" max="500" required>
+            </div>
+            <div>
+                <label for="date">Data de início: </label>
+                <input type="text" name="date" id="date" required>
+            </div>
+        </fieldset>
+        <div>
+            <button type="submit" class="btn-confirm">Confirmar</button>
+            <button type="reset" class="btn-reset">Limpar</button>
+        </div>
+    </form>
+    <script src="./script.js" type="text/javascript"></script>
+</body>
+</html>

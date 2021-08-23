@@ -4,12 +4,6 @@
 */
 function returnDecimalNumber(roman) {
   let romanInDecimal = [
-    /*{ decimal: 4, roman: 'IV' },
-    { decimal: 9, roman: 'IX' },
-    { decimal: 40, roman: 'XL' },
-    { decimal: 90, roman: 'XC' },
-    { decimal: 400, roman: 'CD' },
-    { decimal: 900, roman: 'CM' },*/
     { decimal:  1, roman: 'I' },
     { decimal: 5, roman: 'V' },
     { decimal: 10, roman: 'X' },
