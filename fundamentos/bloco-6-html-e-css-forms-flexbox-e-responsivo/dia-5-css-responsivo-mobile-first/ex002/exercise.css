@@ -1,0 +1,63 @@
+body {
+  font-size: 18px;
+  margin: auto;
+}
+h1 {
+  font-size: 20px;
+}
+
+h2 {
+
+}
+
+main {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
+  text-align: center;
+}
+
+main h2 {
+  width: 100%;
+}
+
+
+img {
+  max-width: 100%;
+}
+
+figure {
+  margin: 0;
+  margin-bottom: 40px;
+  display: inline-block;
+  flex-wrap: wrap;
+}
+
+/* páginas entre 800px e 1000px */
+@media screen and (min-width: 800px) and (max-width: 999px) {
+  
+  body {
+    background-color: gray;
+    font-size: 18px;
+    /* width: 80%; */
+    max-width: 80%;
+  }
+
+  figure {
+    width: 40%;
+    /* max-width: 40%; */
+  }
+}
+
+/* páginas maiores que 1000px */
+@media screen and (min-width: 1000px) {
+  body {
+    background-color: darkkhaki;
+    font-size: 22px;
+    max-width: 70%;
+  }
+
+  figure {
+    width: 45%;
+  }
+}
