@@ -68,11 +68,11 @@
 
 :heavy_check_mark: 5-6: _Projeto - Lista de tarefas_
 
-:white_check_mark: 5-7: _Projeto Bônus - Meme Generator_
+:heavy_check_mark: 5-6: _Projeto Bônus - Meme Generator_
 
-:white_check_mark: 5-7: _Projeto Bônus - Adivinhe a cor_
+:heavy_check_mark: 5-6: _Projeto Bônus - Adivinhe a cor_
 
-:white_check_mark: 5-7: _Projeto Bônus - Carta Misteriosa_
+:heavy_check_mark: 5-6: _Projeto Bônus - Carta Misteriosa_
 
 
 ### [Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-6-html-e-css-forms-flexbox-e-responsivo/)
@@ -85,26 +85,26 @@
 
 :heavy_check_mark: 6-4: _CSS Flexbox - Part 2_
 
-:white_check_mark: 6-5: _CSS Responsivo - Mobile First_
+:heavy_check_mark: 6-5: _CSS Responsivo - Mobile First_
 
-:white_check_mark: 6-6: _Projeto - Trybewarts_
+:heavy_check_mark: 6-6: _Projeto - Trybewarts_
 
-### Bloco 7: JavaScript ES6 & Testes Unitários
+### [Bloco 7: JavaScript ES6 & Testes Unitários](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-7-introducao-a-javascript-es6-e-testes-unitarios/)
 
-:white_check_mark: 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
+:heavy_check_mark: 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 
-:white_check_mark: 7-2: _JavaScript ES6 - Objects_
+:heavy_check_mark: 7-2: _JavaScript ES6 - Objects_
 
-:white_check_mark: 7-3: _Testes unitários em JavaScript_
+:heavy_check_mark: 7-3: _Testes unitários em JavaScript_
 
-:white_check_mark: 7-4: _Projeto - JavaScript Testes Unitários_
+:heavy_check_mark: 7-4: _Projeto - JavaScript Testes Unitários_
 
 
-### Bloco 8: Higher Order Functions do JavaScript ES6
+### [Bloco 8: Higher Order Functions do JavaScript ES6](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-8-higher-order-functions-do-javascript-es6/)
 
-:white_check_mark:8-1: _JavaScript ES6 - Introdução Higher Order Functions_
+:heavy_check_mark: 8-1: _JavaScript ES6 - Introdução Higher Order Functions_
 
-:white_check_mark: 8-2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
+:heavy_check_mark: 8-2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
 
 :white_check_mark: 8-3: _JavaScript ES6 - Higher Order Functions - map e filter_
 
@@ -496,14 +496,14 @@
 
 :heavy_check_mark: 5-6: _Project - To Do List_
 
-:white_check_mark: 5-7: _Bonus Project - Meme Generator_
+:heavy_check_mark: 5-6: _Bonus Project - Meme Generator_
 
-:white_check_mark: 5-7: _Bonus Project - Guess the Colour_
+:heavy_check_mark: 5-6: _Bonus Project - Guess the Colour_
 
-:white_check_mark: 5-7: _Bonus Project - Mysterious Card_
+:heavy_check_mark: 5-6: _Bonus Project - Mysterious Card_
 
 
-### Part 6: HTML and CSS: Forms, Flexbox and Responsive
+### [Part 6: HTML and CSS: Forms, Flexbox and Responsive](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-6-html-e-css-forms-flexbox-e-responsivo/)
 
 :heavy_check_mark: 6-1: _HTML & CSS - Forms_
 
@@ -513,27 +513,27 @@
 
 :heavy_check_mark: 6-4: _CSS Flexbox - Part 2_
 
-:white_check_mark: 6-5: _CSS Responsive - Mobile First_
+:heavy_check_mark: 6-5: _CSS Responsive - Mobile First_
 
-:white_check_mark: 6-6: _Project - Trybewarts_
-
-
-### Part 7: JavaScript ES6 & Unit testing
-
-:white_check_mark: 7-1: _JavaScript ES6 - let, const, arrow functions and template literals_
-
-:white_check_mark: 7-2: _JavaScript ES6 - Objects_
-
-:white_check_mark: 7-3: _Unit testing - JavaScript_
-
-:white_check_mark: 7-4: _Project - JavaScript Unit testing_
+:heavy_check_mark: 6-6: _Project - Trybewarts_
 
 
-### Part 8: Higher Order Functions do JavaScript ES6
+### [Part 7: JavaScript ES6 & Unit testing](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-7-introducao-a-javascript-es6-e-testes-unitarios/)
 
-:white_check_mark:8-1: _JavaScript ES6 - Introduction to Higher Order Functions_
+:heavy_check_mark: 7-1: _JavaScript ES6 - let, const, arrow functions and template literals_
 
-:white_check_mark: 8-2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
+:heavy_check_mark: 7-2: _JavaScript ES6 - Objects_
+
+:heavy_check_mark: 7-3: _Unit testing - JavaScript_
+
+:heavy_check_mark: 7-4: _Project - JavaScript Unit testing_
+
+
+### [Part 8: Higher Order Functions do JavaScript ES6](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-8-higher-order-functions-do-javascript-es6/
+
+:heavy_check_mark: 8-1: _JavaScript ES6 - Introduction to Higher Order Functions_
+
+:heavy_check_mark: 8-2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
 
 :white_check_mark: 8-3: _JavaScript ES6 - Higher Order Functions - map and filter_
 
