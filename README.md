@@ -106,9 +106,9 @@
 
 :heavy_check_mark: 8-2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
 
-:white_check_mark: 8-3: _JavaScript ES6 - Higher Order Functions - map e filter_
+:heavy_check_mark: 8-3: _JavaScript ES6 - Higher Order Functions - map e filter_
 
-:white_check_mark: 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
+:heavy_check_mark: 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
 
 :white_check_mark: 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
 
@@ -535,9 +535,9 @@
 
 :heavy_check_mark: 8-2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
 
-:white_check_mark: 8-3: _JavaScript ES6 - Higher Order Functions - map and filter_
+:heavy_check_mark: 8-3: _JavaScript ES6 - Higher Order Functions - map and filter_
 
-:white_check_mark: 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
+:heavy_check_mark: 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
 
 :white_check_mark: 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring and more_
 
