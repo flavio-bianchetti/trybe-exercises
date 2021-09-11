@@ -110,7 +110,7 @@
 
 :heavy_check_mark: 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
 
-:white_check_mark: 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
+:heavy_check_mark: 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
 
 :white_check_mark: 8-5: _Projeto - Zoo functions_
 
@@ -539,7 +539,7 @@
 
 :heavy_check_mark: 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
 
-:white_check_mark: 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring and more_
+:heavy_check_mark: 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring and more_
 
 :white_check_mark: 8-5: _Project - Zoo functions_
 

@@ -123,7 +123,7 @@ function nameAndAge() {
   // escreva seu código aqui
   //console.log(books.map((book) => `${book.releaseYear} - ${book.author.birthYear} - ${book.author.name}`));
   let authors = books.map((book) => ({age: (book.releaseYear - book.author.birthYear), author: book.author.name}));
-  return authors.sort((a, b) => a.age > b.age ? 1 : (b.age > a.age ? -1 : 0));
+  return authors.sort((a, b) => a.age - b.age);
 }
 
 // console.log(nameAndAge());
@@ -204,8 +204,8 @@ expectedResult = [
 
 function oldBooksOrdered() {
   // escreva seu código aqui
-  const oldBooks = books.filter((book) => 2021 - book.releaseYear > 60 ? 1 : 0);
-  return oldBooks.sort((a, b) => a.releaseYear > b.releaseYear ? 1 : (b.releaseYear > a.releaseYear ? -1 : 0));
+  const oldBooks = books.filter((book) => 2021 - book.releaseYear > 60);
+  return oldBooks.sort((a, b) => a.releaseYear - b.releaseYear);
 }
 
 // console.log(oldBooksOrdered());
@@ -245,7 +245,7 @@ expectedResult = [
 
 function oldBooks() {
   // escreva seu código aqui
-  const olderBooks = books.filter((book) => 2021 - book.releaseYear > 60 ? 1 : 0);
+  const olderBooks = books.filter((book) => 2021 - book.releaseYear > 60);
   return olderBooks.map((olderBook) => olderBook.name);
 }
 

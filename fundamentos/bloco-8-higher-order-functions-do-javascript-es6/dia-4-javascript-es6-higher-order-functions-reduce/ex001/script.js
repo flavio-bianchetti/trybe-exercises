@@ -10,11 +10,8 @@ const arrays = [
   [4, 5, 6],
 ];
 
-const returnValue = (array) => array.reduce((acc, array) => array)
-
 function flatten() {
   // escreva seu código aqui
-  index = 0;
   return arrays.reduce((acc, array) => acc.concat(array), []);
 }
 
@@ -103,9 +100,8 @@ let expectedResult = "George R. R. Martin, J. R. R. Tolkien, Isaac Asimov, Frank
 const getNameAuthor = (acc, current, index, array) => {
   if (index + 1 === array.length) {
     return `${acc}${array[index].author.name}.`;
-  } else {
-    return `${acc}${array[index].author.name}, `;
-  }
+  } 
+  return `${acc}${array[index].author.name}, `;
 };
 
 function reduceNames() {
@@ -187,7 +183,6 @@ const names = [
 ];
 
 const countCharA = (acc, name) => {
-//   acc += name.match(/[aA]/g).length;
   acc += name.split('').reduce((acc, char) => char === 'a' || char === 'A' ? acc + 1 : acc , 0);
   return acc;
 };

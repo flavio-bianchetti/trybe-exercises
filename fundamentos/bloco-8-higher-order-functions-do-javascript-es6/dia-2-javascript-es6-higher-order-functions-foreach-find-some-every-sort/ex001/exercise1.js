@@ -70,6 +70,7 @@ Encontre o nome da primeira pessoa autora do livro nascida no ano de 1947.
 */
 
 const authorBornIn1947 = () => {
+  //return books.find((book) => book.author.birthYear === 1947).author.name;
   return books.find((book) => book.author.birthYear === 1947 ? book.author.name : 0);
 };
 
@@ -184,8 +185,8 @@ expectedResult = false;
 function everyoneWasBornOnSecXX() {
   // escreva seu código aqui
   let yearStart = 1900;
-  let yearEnd = 1999;
-  return books.every((book) => book.author.birthYear >= yearStart && book.author.birthYear <= yearEnd);
+  let yearEnd = 2000;
+  return books.every((book) => book.author.birthYear > yearStart && book.author.birthYear <= yearEnd);
 }
 
 assert.strictEqual(everyoneWasBornOnSecXX(), expectedResult);
