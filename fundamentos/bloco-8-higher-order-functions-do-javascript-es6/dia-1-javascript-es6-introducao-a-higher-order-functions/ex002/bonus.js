@@ -28,7 +28,7 @@ const dragon = {
 const battleMembers = { mage, warrior, dragon };
 const minDamageDragon = 15;
 const atack = (strength, multiplier) => {
-  return Math.floor(Math.random * multiplier) * strength;
+  return Math.floor(Math.random * multiplier) + strength;
 };
 
 /*
@@ -37,7 +37,7 @@ O dano será um número aleatório entre 15 (dano mínimo) e o valor do atributo
 */
 
 const dragonDamage = (dragon) => {
-  return atack(dragon.damage - minDamageDragon + 1, minDamageDragon - 1);
+  return atack(minDamageDragon, dragon.damage - minDamageDragon + 1);
 };
 
 /*
