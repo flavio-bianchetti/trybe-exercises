@@ -9,7 +9,7 @@
 > As principais disciplinas técnicas estudadas são JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git, [...] entre outras linguagens e frameworks.
 
 
-## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
+## Fundamentos do Desenvolvimento Web :mortar_board:
 
 
 ### Bloco 1: [Introdução - Unix & Shell](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-1-unix-e-bash/)
@@ -124,15 +124,15 @@
 :heavy_check_mark: 9-3: _Projeto - Carrinho de Compras_
 
 
-### Bloco 10: Testes automatizados com Jest
+### Bloco 10: [Testes automatizados com Jest](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-10-testes-automatizados-com-jest/)
 
-:white_check_mark: 10-1: _Primeiros passos no Jest_
+:heavy_check_mark: 10-1: _Primeiros passos no Jest_
 
-:white_check_mark: 10-2: _Jest - Testes Assíncronos_
+:heavy_check_mark: 10-2: _Jest - Testes Assíncronos_
 
-:white_check_mark: 10-3: _Jest - Simulando comportamentos_
+:heavy_check_mark: 10-3: _Jest - Simulando comportamentos_
 
-:white_check_mark: 10-4: _Projeto - Jest Assíncrono e Mocking_
+:heavy_check_mark: 10-4: _Projeto - Jest Assíncrono e Mocking_
 
   
 ## Desenvolvimento Front-end :lock:
@@ -440,7 +440,7 @@
 > The web development training program from Trybe has a workload of  **1500 hours**  that covers front-end, back-end, computer science, software engineering, agile methodologies, and soft skills. 
 > The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git [...] among others languages and frameworks.
 
-## Web development fundamentals :hourglass_flowing_sand:
+## Web development fundamentals :mortar_board:
 
 
 ### Part 1: [Introduction - Unix & Shell](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-1-unix-e-bash/)
@@ -553,15 +553,15 @@
 :heavy_check_mark: 9-3: _Project - Shopping Cart_
 
 
-### Part 10: Automate Testing using Jest
+### Part 10: [Automate Testing using Jest](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-10-testes-automatizados-com-jest/)
 
-:white_check_mark: 10-1: _First steps with Jest_
+:heavy_check_mark: 10-1: _First steps with Jest_
 
-:white_check_mark: 10-2: _Testing Asynchronous using Jest_
+:heavy_check_mark: 10-2: _Testing Asynchronous using Jest_
 
-:white_check_mark: 10-3: _Jest - Simulating behaviors_
+:heavy_check_mark: 10-3: _Jest - Simulating behaviors_
 
-:white_check_mark: 10-4: _Project - Asynchronous Jest and Mocking_
+:heavy_check_mark: 10-4: _Project - Asynchronous Jest and Mocking_
 
 ## Front-end development :lock:
 
