@@ -112,16 +112,16 @@
 
 :heavy_check_mark: 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
 
-:white_check_mark: 8-5: _Projeto - Zoo functions_
+:heavy_check_mark: 8-5: _Projeto - Zoo functions_
 
 
-### Bloco 9: Javascript Assíncrono e Promises
+### [Bloco 9: Javascript Assíncrono e Promises](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-9-javascript-assincrono-e-promises/)
 
-:white_check_mark: 9-1: _JavaScript Assíncrono e Callbacks_
+:heavy_check_mark: 9-1: _JavaScript Assíncrono e Callbacks_
 
-:white_check_mark: 9-2: _JavaScript Promises_
+:heavy_check_mark: 9-2: _JavaScript Promises_
 
-:white_check_mark: 9-3: _Projeto - Carrinho de Compras_
+:heavy_check_mark: 9-3: _Projeto - Carrinho de Compras_
 
 
 ### Bloco 10: Testes automatizados com Jest
@@ -544,13 +544,13 @@
 :white_check_mark: 8-5: _Project - Zoo functions_
 
 
-### Part 9: Asynchronous Javascript and Promises
+### Part 9: [Asynchronous Javascript and Promises](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-9-javascript-assincrono-e-promises/)
 
-:white_check_mark: 9-1: _JavaScript Async and Callbacks_
+:heavy_check_mark: 9-1: _JavaScript Async and Callbacks_
 
-:white_check_mark: 9-2: _JavaScript Promises_
+:heavy_check_mark: 9-2: _JavaScript Promises_
 
-:white_check_mark: 9-3: _Project - Shopping Cart_
+:heavy_check_mark: 9-3: _Project - Shopping Cart_
 
 
 ### Part 10: Automate Testing using Jest
