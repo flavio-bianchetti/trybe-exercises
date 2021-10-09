@@ -2,24 +2,24 @@
 
 > This repository contains all the learning activities being developed by _[Flávio Bianchetti](https://www.linkedin.com/in/flaviobianchetti/)_ while studying at _[Trybe](https://www.betrybe.com/)_ :rocket: (2021-2022).
 
-## Automated Testing with Jest
+## Introduction to React
 
 
-### Block 10.2: [Jest - Asynchronous Tests] :heavy_check_mark:
+### Block 11-A.2: [React Components] :heavy_check_mark:
 
-### Part 1
+### Parts 1
 
-**Descriptions:** learn asynchronous codes and how to reuse configurations between tests, separating them by scope.
+**Descriptions:** learn to create React components, make use of props, compose components, create multiple components dynamically and use PropTypes.
 
 # Versão em português - Trybe
 
 > Este repositório contêm todas as atividades de aprendizagem que estão sendo desenvolvidas por  _[Flávio Bianchetti](https://www.linkedin.com/in/flaviobianchetti/)_ enquanto estuda na _[Trybe](https://www.betrybe.com/)_ :rocket: (2021-2022).
 
-## Testes Automatizados com o Jest
+## Introdução à React
 
 
-### Bloco 10.2: [Jest - Testes Assíncronos] :heavy_check_mark:
+### Bloco 11-A.2: [Componentes React] :heavy_check_mark:
 
-### Parte 1
+### Partes 1
 
-**Descrições:** aprender códigos assíncronos e como reaproveitar configurações entre testes, podendo separá-las por escopo.
+**Descrições:** aprender criar componentes React, fazer uso de props, composição de componentes, criar múltiplos componentes dinamicamente e utilizar PropTypes.

@@ -5,7 +5,7 @@
 ## Automated Testing with Jest
 
 
-### Block 10-A.3: [Jest - Simulating Behaviors] :heavy_check_mark:
+### Block 10.3: [Jest - Simulating Behaviors] :heavy_check_mark:
 
 ### Part 1
 
@@ -18,7 +18,7 @@
 ## Testes Automatizados com o Jest
 
 
-### Bloco 10-A.3: [Jest - Simulando Comportamentos] :heavy_check_mark:
+### Bloco 10.3: [Jest - Simulando Comportamentos] :heavy_check_mark:
 
 ### Parte 1
 
