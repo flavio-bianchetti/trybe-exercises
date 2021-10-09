@@ -5,7 +5,7 @@
 ## Automated Testing with Jest
 
 
-### Block 10-A.1: [First steps with Jest] :heavy_check_mark:
+### Block 10.1: [First steps with Jest] :heavy_check_mark:
 
 ### Part 1
 
@@ -18,7 +18,7 @@
 ## Testes Automatizados com o Jest
 
 
-### Bloco 10-A.1: [Primeiros passos com o Jest] :heavy_check_mark:
+### Bloco 10.1: [Primeiros passos com o Jest] :heavy_check_mark:
 
 ### Parte 1
 
