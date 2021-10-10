@@ -1,9 +1,9 @@
 
 # Trybe
 
-:rotating_light: Se você não está acostumado com _inglês_, pode encontrar a versão deste documento em _português_ _[aqui](#versao-em-portugues---trybe)_.
+:rotating_light: Se você não está acostumado com _inglês_, pode encontrar a versão deste documento em _português_ _[aqui](#versão-em-português---trybe)_.
 
-> This repository contains all activities that are being developed by  _[Flávio Bianchetti](https://www.linkedin.com/in/flaviobianchetti/)_  while studying at  _[Trybe](https://www.betrybe.com/)_  :rocket: (2020 - 2021).
+> This repository contains all activities that are being developed by  _[Flávio Bianchetti](https://www.linkedin.com/in/flaviobianchetti/)_  during the study  at _[Trybe](https://www.betrybe.com/)_  :rocket: (2021 - 2022).
  
 > The web development training program from Trybe has a workload of  **1500 hours**  that covers front-end, back-end, computer science, software engineering, agile methodologies, and soft skills. 
 > The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git [...] among others languages and frameworks.
@@ -434,7 +434,7 @@
 
  # Versão em Português - Trybe
 
-> Este repositório contêm todas as atividades de aprendizagem que estão sendo desenvolvidas por  _[Flávio Bianchetti](https://www.linkedin.com/in/flaviobianchetti/)_ enquanto estuda na _[Trybe](https://www.betrybe.com/)_ :rocket: (2021-2022).
+> Este repositório contêm todas as atividades de aprendizagem que estão sendo desenvolvidas por  _[Flávio Bianchetti](https://www.linkedin.com/in/flaviobianchetti/)_ durante o estudo na _[Trybe](https://www.betrybe.com/)_ :rocket: (2021-2022).
  
 > O programa conta com mais de **1.500 horas** de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 > As principais disciplinas técnicas estudadas são JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git, [...] entre outras linguagens e frameworks.
