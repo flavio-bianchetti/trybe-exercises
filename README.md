@@ -109,7 +109,7 @@
 
 :heavy_check_mark: 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring and more_
 
-:white_check_mark: 8-5: _Project - Zoo functions_
+:heavy_check_mark: 8-5: _Project - Zoo functions_
 
 
 ### Part 9: [Asynchronous Javascript and Promises](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-9-javascript-assincrono-e-promises/)
@@ -134,7 +134,7 @@
 ## Front-end development :hourglass_flowing_sand:
 
 
-### Part 11: [Introduction to React](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/front-end/bloco-11-a-introducao-a-react/)
+### Part 11-A: [Introduction to React](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/front-end/bloco-11-a-introducao-a-react/)
 
 :heavy_check_mark: 11-1: _'Hello, world!' with React!_
 
@@ -145,9 +145,9 @@
 
 ### Part 11-B: Compenents with state, events and forms with React
 
-:white_check_mark: 11-B-1: _Components with state and events_
+:heavy_check_mark: 11-B-1: _Components with state and events_
 
-:white_check_mark: 11-B-2: _Forms in React_
+:heavy_check_mark: 11-B-2: _Forms in React_
 
 :white_check_mark: 11-B-3: _Project - Movie Cards Library Stateful_
 
@@ -580,14 +580,16 @@
  
 ### Bloco 11-B: Componentes com Estado, Eventos e Formulários com React
 
-:white_check_mark: 11-B-1: _Components com estado e eventos_
+:heavy_check_mark: 11-B-1: _Components com estado e eventos_
 
-:white_check_mark: 11-B-2: _Formulários no React_
+:heavy_check_mark: 11-B-2: _Formulários no React_
+
 :white_check_mark: 11-B-3: _Projeto - Movie Cards Library Stateful_
 
 ### Bloco 12: Ciclo de Vida de Componentes e React Router
 
 :white_check_mark: 12-1: _Ciclo de vida de componentes_
+
 :white_check_mark: 12-2: _React Router_
 
 :white_check_mark: 12-3: _Projeto - Movie Cards Library CRUD_
