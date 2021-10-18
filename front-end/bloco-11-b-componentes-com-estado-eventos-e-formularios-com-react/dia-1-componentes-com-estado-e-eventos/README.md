@@ -7,7 +7,7 @@
 
 ### Block 11-B.1: [Components with state and events] :heavy_check_mark:
 
-### Parts 1
+### Part 1
 
 **Descriptions:** learn to Read a component's state and use it to change what we display in the browser, initialize a component giving it a predefined state, update a component's state, and capture events using syntax of the React.
 
@@ -24,7 +24,7 @@ The exercise worked in this block can be found _[here](https://github.com/flavio
 
 ### Bloco 11-B.1: [Components com estado e eventos] :heavy_check_mark:
 
-### Partes 1
+### Parte 1
 
 **Descrições:** aprender a Ler o estado de um componente e usá-lo para alterar o que exibimos no browser, incializar um componente dando a ele um estado pré-definido, atualizar o estado de um componente e capturar eventos utilizando a sintaxe do React.
 
