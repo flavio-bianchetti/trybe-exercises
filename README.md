@@ -143,18 +143,18 @@
 :heavy_check_mark: 11-3: _Project - Movie Cards Library_
 
 
-### Part 11-B: Compenents with state, events and forms with React
+### Part 11-B: [Compenents with state, events and forms with React](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/front-end/bloco-11-b-componentes-com-estado-eventos-e-formularios-com-react/)
 
 :heavy_check_mark: 11-B-1: _Components with state and events_
 
 :heavy_check_mark: 11-B-2: _Forms in React_
 
-:white_check_mark: 11-B-3: _Project - Movie Cards Library Stateful_
+:heavy_check_mark: 11-B-3: _Project - Movie Cards Library Stateful_
 
 
-### Part 12: Lifecycle of components and  React Router
+### Part 12: [Lifecycle of components and  React Router](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/front-end/bloco-12-ciclo-de-vida-de-componentes-e-react-router/)
 
-:white_check_mark: 12-1: _Lifecycle of componenets _
+:heavy_check_mark: 12-1: _Lifecycle of componenets_
 
 :white_check_mark: 12-2: _React Router_
 
@@ -578,17 +578,17 @@
 :heavy_check_mark: 11-A-3: _Projeto - Movie Cards Library_
 
  
-### Bloco 11-B: Componentes com Estado, Eventos e Formulários com React
+### Bloco 11-B: [Componentes com Estado, Eventos e Formulários com React](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/front-end/bloco-11-b-componentes-com-estado-eventos-e-formularios-com-react/)
 
 :heavy_check_mark: 11-B-1: _Components com estado e eventos_
 
 :heavy_check_mark: 11-B-2: _Formulários no React_
 
-:white_check_mark: 11-B-3: _Projeto - Movie Cards Library Stateful_
+:heavy_check_mark: 11-B-3: _Projeto - Movie Cards Library Stateful_
 
-### Bloco 12: Ciclo de Vida de Componentes e React Router
+### Bloco 12: [Ciclo de Vida de Componentes e React Router](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/front-end/bloco-12-ciclo-de-vida-de-componentes-e-react-router/)
 
-:white_check_mark: 12-1: _Ciclo de vida de componentes_
+:heavy_check_mark: 12-1: _Ciclo de vida de componentes_
 
 :white_check_mark: 12-2: _React Router_
 
