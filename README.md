@@ -156,21 +156,21 @@
 
 :heavy_check_mark: 12-1: _Lifecycle of componenets_
 
-:white_check_mark: 12-2: _React Router_
+:heavy_check_mark: 12-2: _React Router_
 
-:white_check_mark: 12-3: _Project - Movie Cards Library CRUD_
-
-
-### Part 13: Agile Methodologies
-
-:white_check_mark: 13-1: _Agile Methodologies_
-
-:white_check_mark: 13-2: _Project - Frontend Online Store_
+:heavy_check_mark: 12-3: _Project - Movie Cards Library CRUD_
 
 
-### Part 14: Automated testing with React Testing Library
+### Part 13: [Agile Methodologies](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/front-end/bloco-13-metodologias-ageis/)
 
-:white_check_mark: 14-1: _RTL - First steps_
+:heavy_check_mark: 13-1: _Agile Methodologies_
+
+:heavy_check_mark: 13-2: _Project - Frontend Online Store_
+
+
+### Part 14: [Automated testing with React Testing Library](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/front-end/bloco-14-testes-automatizados-com-react-testing-library/)
+
+:heavy_check_mark: 14-1: _RTL - First steps_
 
 :white_check_mark: 14-2: _RTL - Mocks e Inputs_
 
@@ -590,20 +590,20 @@
 
 :heavy_check_mark: 12-1: _Ciclo de vida de componentes_
 
-:white_check_mark: 12-2: _React Router_
+:heavy_check_mark: 12-2: _React Router_
 
-:white_check_mark: 12-3: _Projeto - Movie Cards Library CRUD_
+:heavy_check_mark: 12-3: _Projeto - Movie Cards Library CRUD_
 
 
-### Bloco 13: Metodologias ágeis
+### Bloco 13: [Metodologias ágeis](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/front-end/bloco-13-metodologias-ageis/)
 
-:white_check_mark: 13-1: _Metodologias ágeis_
+:heavy_check_mark: 13-1: _Metodologias ágeis_
 
-:white_check_mark: 13-2: _Projeto - Frontend Online Store_
+:heavy_check_mark: 13-2: _Projeto - Frontend Online Store_
 
-### Bloco 14: Testes automatizados com React Testing Library
+### Bloco 14: [Testes automatizados com React Testing Library](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/front-end/bloco-14-testes-automatizados-com-react-testing-library/)
 
-:white_check_mark: 14-1: _RTL - Primeiros Passos_
+:heavy_check_mark: 14-1: _RTL - Primeiros Passos_
 
 :white_check_mark: 14-2: _RTL - Mocks e Inputs_
 
