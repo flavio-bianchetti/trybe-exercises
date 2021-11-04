@@ -172,11 +172,11 @@
 
 :heavy_check_mark: 14-1: _RTL - First steps_
 
-:white_check_mark: 14-2: _RTL - Mocks e Inputs_
+:heavy_check_mark: 14-2: _RTL - Mocks e Inputs_
 
-:white_check_mark: 14-2: _RTL: Testing with React Router_
+:white_check_mark: 14-3: _RTL: Testing with React Router_
 
-:white_check_mark: 14-3: _Project - Tests with React_
+:white_check_mark: 14-4: _Project - Tests with React_
 
 
 ### Part 15: State management with Redux
@@ -605,11 +605,11 @@
 
 :heavy_check_mark: 14-1: _RTL - Primeiros Passos_
 
-:white_check_mark: 14-2: _RTL - Mocks e Inputs_
+:heavy_check_mark: 14-2: _RTL - Mocks e Inputs_
 
-:white_check_mark: 14-2: _RTL: Testando com React Router_
+:white_check_mark: 14-3: _RTL: Testando com React Router_
 
-:white_check_mark: 14-3: _Projeto - Testes em React_
+:white_check_mark: 14-4: _Projeto - Testes em React_
 
 
 ### Bloco 15: Gerenciamento de estado com Redux
