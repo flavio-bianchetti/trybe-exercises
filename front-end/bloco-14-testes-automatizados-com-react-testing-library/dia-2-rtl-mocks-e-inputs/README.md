@@ -5,7 +5,7 @@
 ## Automated testing with React Testing library
 
 
-### Block 14.1: [RTL - Mocks and Inputs]: heavy_check_mark:
+### Block 14.2: [RTL - Mocks and Inputs]: heavy_check_mark:
 
 ### Parts 1 and 2
 
@@ -22,7 +22,7 @@ One of the exercises worked on in this block can be found _ [here](https://githu
 ## Testes Automatizados com React Testing Library
 
 
-### Bloco 14.1: [RTL - Mocks e Inputs] :heavy_check_mark:
+### Bloco 14.2: [RTL - Mocks e Inputs] :heavy_check_mark:
 
 ### Partes 1 e 2
 

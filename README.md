@@ -11,13 +11,13 @@
 ## Web development fundamentals :mortar_board:
 
 
-### Part 1: [Introduction - Unix & Shell](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-1-unix-e-bash/)
+### [Part 1: Introduction - Unix & Shell](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-1-unix-e-bash/)
 
 :heavy_check_mark: 1-3: _Unix & Shell- Part 1_
 
 :heavy_check_mark: 1-4: _Unix & Shell- Part 2_
 
-### Part 2: [Git & GitHub](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-2-git-github-e-internet/)
+### [Part 2: Git & GitHub](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-2-git-github-e-internet/)
 
 :heavy_check_mark: 2-1: _What is it and what is it used for?_
 
@@ -25,7 +25,7 @@
 
 :heavy_check_mark: 2-3: _Internet - Understading how it works_
 
-### Part 3: [Introduction - HTML & CSS](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-3-introducao-a-html-e-css/)
+### [Part 3: Introduction - HTML & CSS](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-3-introducao-a-html-e-css/)
 
 :heavy_check_mark: 3-1: _HTML & CSS - Page structure_
 
@@ -37,7 +37,7 @@
 
 :heavy_check_mark: 3-5: _Project - Lesson Learned_
   
-### Part 4: [Introduction - JavaScript e Logic](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-4-introducao-a-javascript-e-logica-de-programacao/)
+### [Part 4: Introduction - JavaScript e Logic](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-4-introducao-a-javascript-e-logica-de-programacao/)
 
 :heavy_check_mark:  4-1: _JavaScript - First steps_
 
@@ -97,7 +97,7 @@
 :heavy_check_mark: 7-4: _Project - JavaScript Unit testing_
 
 
-### [Part 8: Higher Order Functions do JavaScript ES6](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-8-higher-order-functions-do-javascript-es6/
+### [Part 8: Higher Order Functions do JavaScript ES6](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-8-higher-order-functions-do-javascript-es6/)
 
 :heavy_check_mark: 8-1: _JavaScript ES6 - Introduction to Higher Order Functions_
 
@@ -112,7 +112,7 @@
 :heavy_check_mark: 8-5: _Project - Zoo functions_
 
 
-### Part 9: [Asynchronous Javascript and Promises](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-9-javascript-assincrono-e-promises/)
+### [Part 9: Asynchronous Javascript and Promises](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-9-javascript-assincrono-e-promises/)
 
 :heavy_check_mark: 9-1: _JavaScript Async and Callbacks_
 
@@ -121,7 +121,7 @@
 :heavy_check_mark: 9-3: _Project - Shopping Cart_
 
 
-### Part 10: [Automate Testing using Jest](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-10-testes-automatizados-com-jest/)
+### [Part 10: Automate Testing using Jest](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-10-testes-automatizados-com-jest/)
 
 :heavy_check_mark: 10-1: _First steps with Jest_
 
@@ -134,7 +134,7 @@
 ## Front-end development :hourglass_flowing_sand:
 
 
-### Part 11-A: [Introduction to React](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/front-end/bloco-11-a-introducao-a-react/)
+### [Part 11-A: Introduction to React](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/front-end/bloco-11-a-introducao-a-react/)
 
 :heavy_check_mark: 11-1: _'Hello, world!' with React!_
 
@@ -143,7 +143,7 @@
 :heavy_check_mark: 11-3: _Project - Movie Cards Library_
 
 
-### Part 11-B: [Compenents with state, events and forms with React](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/front-end/bloco-11-b-componentes-com-estado-eventos-e-formularios-com-react/)
+### [Part 11-B: Compenents with state, events and forms with React](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/front-end/bloco-11-b-componentes-com-estado-eventos-e-formularios-com-react/)
 
 :heavy_check_mark: 11-B-1: _Components with state and events_
 
@@ -152,7 +152,7 @@
 :heavy_check_mark: 11-B-3: _Project - Movie Cards Library Stateful_
 
 
-### Part 12: [Lifecycle of components and  React Router](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/front-end/bloco-12-ciclo-de-vida-de-componentes-e-react-router/)
+### [Part 12: Lifecycle of components and  React Router](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/front-end/bloco-12-ciclo-de-vida-de-componentes-e-react-router/)
 
 :heavy_check_mark: 12-1: _Lifecycle of componenets_
 
@@ -161,20 +161,20 @@
 :heavy_check_mark: 12-3: _Project - Movie Cards Library CRUD_
 
 
-### Part 13: [Agile Methodologies](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/front-end/bloco-13-metodologias-ageis/)
+### [Part 13: Agile Methodologies](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/front-end/bloco-13-metodologias-ageis/)
 
 :heavy_check_mark: 13-1: _Agile Methodologies_
 
 :heavy_check_mark: 13-2: _Project - Frontend Online Store_
 
 
-### Part 14: [Automated testing with React Testing Library](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/front-end/bloco-14-testes-automatizados-com-react-testing-library/)
+### [Part 14: Automated testing with React Testing Library](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/front-end/bloco-14-testes-automatizados-com-react-testing-library/)
 
 :heavy_check_mark: 14-1: _RTL - First steps_
 
 :heavy_check_mark: 14-2: _RTL - Mocks e Inputs_
 
-:white_check_mark: 14-3: _RTL: Testing with React Router_
+:heavy_check_mark: 14-3: _RTL: Testing with React Router_
 
 :white_check_mark: 14-4: _Project - Tests with React_
 
@@ -443,14 +443,14 @@
 ## Fundamentos do Desenvolvimento Web :mortar_board:
 
 
-### Bloco 1: [Introdução - Unix & Shell](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-1-unix-e-bash/)
+### [Bloco 1: Introdução - Unix & Shell](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-1-unix-e-bash/)
 
 :heavy_check_mark: 1-3: _Unix & Shell- Parte 1_
 
 :heavy_check_mark: 1-4: _Unix & Shell- Parte 2_
 
 
-### Bloco 2: [Git & GitHub](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-2-git-github-e-internet/)
+### [Bloco 2: Git & GitHub](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-2-git-github-e-internet/)
 
 :heavy_check_mark: 2-1: _O que é e para que serve?_
 
@@ -459,7 +459,7 @@
 :heavy_check_mark: 2-3: _Internet - Entendendo como ela funciona_
 
 
-### Bloco 3: [Introdução - HTML & CSS](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-3-introducao-a-html-e-css/)
+### [Bloco 3: Introdução - HTML & CSS](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-3-introducao-a-html-e-css/)
 
 :heavy_check_mark: 3-1: _HTML & CSS - Estruturas de página_
 
@@ -472,7 +472,7 @@
 :heavy_check_mark: 3-5: _Projeto - Lesson Learned_
   
 
-### Bloco 4: [Introdução - JavaScript e Lógica](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-4-introducao-a-javascript-e-logica-de-programacao/)
+### [Bloco 4: Introdução - JavaScript e Lógica](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-4-introducao-a-javascript-e-logica-de-programacao/)
 
 :heavy_check_mark:  4-1: _JavaScript - Primeiros passos_
 
@@ -555,7 +555,7 @@
 :heavy_check_mark: 9-3: _Projeto - Carrinho de Compras_
 
 
-### Bloco 10: [Testes automatizados com Jest](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-10-testes-automatizados-com-jest/)
+### [Bloco 10: Testes automatizados com Jest](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-10-testes-automatizados-com-jest/)
 
 :heavy_check_mark: 10-1: _Primeiros passos no Jest_
 
@@ -569,7 +569,7 @@
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
 
-### Bloco 11-A: [Introdução à React](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/front-end/bloco-11-a-introducao-a-react/)
+### [Bloco 11-A: Introdução à React](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/front-end/bloco-11-a-introducao-a-react/)
 
 :heavy_check_mark: 11-A-1: _'Hello, world!' no React!_
 
@@ -578,7 +578,7 @@
 :heavy_check_mark: 11-A-3: _Projeto - Movie Cards Library_
 
  
-### Bloco 11-B: [Componentes com Estado, Eventos e Formulários com React](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/front-end/bloco-11-b-componentes-com-estado-eventos-e-formularios-com-react/)
+### [Bloco 11-B: Componentes com Estado, Eventos e Formulários com React](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/front-end/bloco-11-b-componentes-com-estado-eventos-e-formularios-com-react/)
 
 :heavy_check_mark: 11-B-1: _Components com estado e eventos_
 
@@ -586,7 +586,7 @@
 
 :heavy_check_mark: 11-B-3: _Projeto - Movie Cards Library Stateful_
 
-### Bloco 12: [Ciclo de Vida de Componentes e React Router](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/front-end/bloco-12-ciclo-de-vida-de-componentes-e-react-router/)
+### [Bloco 12: Ciclo de Vida de Componentes e React Router](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/front-end/bloco-12-ciclo-de-vida-de-componentes-e-react-router/)
 
 :heavy_check_mark: 12-1: _Ciclo de vida de componentes_
 
@@ -595,19 +595,19 @@
 :heavy_check_mark: 12-3: _Projeto - Movie Cards Library CRUD_
 
 
-### Bloco 13: [Metodologias ágeis](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/front-end/bloco-13-metodologias-ageis/)
+### [Bloco 13: Metodologias ágeis](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/front-end/bloco-13-metodologias-ageis/)
 
 :heavy_check_mark: 13-1: _Metodologias ágeis_
 
 :heavy_check_mark: 13-2: _Projeto - Frontend Online Store_
 
-### Bloco 14: [Testes automatizados com React Testing Library](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/front-end/bloco-14-testes-automatizados-com-react-testing-library/)
+### [Bloco 14: Testes automatizados com React Testing Library](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/front-end/bloco-14-testes-automatizados-com-react-testing-library/)
 
 :heavy_check_mark: 14-1: _RTL - Primeiros Passos_
 
 :heavy_check_mark: 14-2: _RTL - Mocks e Inputs_
 
-:white_check_mark: 14-3: _RTL: Testando com React Router_
+:heavy_check_mark: 14-3: _RTL: Testando com React Router_
 
 :white_check_mark: 14-4: _Projeto - Testes em React_
 
