@@ -13,7 +13,7 @@
 
 ### Exercise:
 
-The exercise worked in this block can be found _[here](https://github.com/flavio-bianchetti/exercise-portfolio-web)_ and its implementation will be done in my portfolio which can be found _[here](https ://flavio-bianchetti.github.io/)_.
+The exercise worked in this block can be found _[here](https://github.com/flavio-bianchetti/exercise-portfolio-web)_ and its implementation will be done in my portfolio which can be found _[here](https://flavio-bianchetti.github.io/)_.
 
 # Versão em português - Trybe
 
