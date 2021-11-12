@@ -176,12 +176,12 @@
 
 :heavy_check_mark: 14-3: _RTL: Testing with React Router_
 
-:white_check_mark: 14-4: _Project - Tests with React_
+:heavy_check_mark: 14-4: _Project - Tests with React_
 
 
-### Part 15: State management with Redux
+### [Part 15: State management with Redux](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/front-end/bloco-15-gerenciamento-de-estado-com-redux/)
 
-:white_check_mark: 15-1: _Introduction to Redux - The global state of the application_
+:heavy_check_mark: 15-1: _Introduction to Redux - The global state of the application_
 
 :white_check_mark: 15-2: _Using React Redux_
 
@@ -609,12 +609,12 @@
 
 :heavy_check_mark: 14-3: _RTL: Testando com React Router_
 
-:white_check_mark: 14-4: _Projeto - Testes em React_
+:heavy_check_mark: 14-4: _Projeto - Testes em React_
 
 
-### Bloco 15: Gerenciamento de estado com Redux
+### [Bloco 15: Gerenciamento de estado com Redux](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/front-end/bloco-15-gerenciamento-de-estado-com-redux/)
 
-:white_check_mark: 15-1: _Introdução ao Redux - O estado global da aplicação_
+:heavy_check_mark: 15-1: _Introdução ao Redux - O estado global da aplicação_
 
 :white_check_mark: 15-2: _Usando o Redux no React_
 
