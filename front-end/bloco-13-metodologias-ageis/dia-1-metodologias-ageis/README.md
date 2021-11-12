@@ -5,7 +5,7 @@
 ## Agile methodologies
 
 
-### Block 13.1: [Agile Methodologies]: heavy_check_mark:
+### Block 13.1: [Agile Methodologies] :heavy_check_mark:
 
 ### Part 1
 

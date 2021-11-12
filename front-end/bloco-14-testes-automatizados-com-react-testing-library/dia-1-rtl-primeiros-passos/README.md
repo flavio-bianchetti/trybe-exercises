@@ -5,7 +5,7 @@
 ## Automated testing with React Testing library
 
 
-### Block 14.1: [RTL - First Steps]: heavy_check_mark:
+### Block 14.1: [RTL - First Steps] :heavy_check_mark:
 
 ### Part 1
 
