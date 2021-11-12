@@ -5,7 +5,7 @@
 ## State Management with Redux
 
 
-### Block 15.1: [Introduction to Redux - The global state of the application]: heavy_check_mark:
+### Block 15.1: [Introduction to Redux - The global state of the application] :heavy_check_mark:
 
 ### Parts 1 and 2
 

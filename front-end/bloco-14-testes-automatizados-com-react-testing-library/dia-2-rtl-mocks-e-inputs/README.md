@@ -5,7 +5,7 @@
 ## Automated testing with React Testing library
 
 
-### Block 14.2: [RTL - Mocks and Inputs]: heavy_check_mark:
+### Block 14.2: [RTL - Mocks and Inputs] :heavy_check_mark:
 
 ### Parts 1 and 2
 

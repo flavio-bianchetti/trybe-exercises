@@ -5,7 +5,7 @@
 ## React Router Component and Lifecycle
 
 
-### Block 12.2: [React Router]: heavy_check_mark:
+### Block 12.2: [React Router] :heavy_check_mark:
 
 ### Part 1
 
