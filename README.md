@@ -183,27 +183,27 @@
 
 :heavy_check_mark: 15-1: _Introduction to Redux - The global state of the application_
 
-:white_check_mark: 15-2: _Using React Redux_
+:heavy_check_mark: 15-2: _Using React Redux_
 
-:white_check_mark: 15-3: _Using React Redux - Práctices_
+:heavy_check_mark: 15-3: _Using React Redux - Práctices_
 
-:white_check_mark: 15-4: _Using React Redu - Async Actions_
+:heavy_check_mark: 15-4: _Using React Redu - Async Actions_
 
-:white_check_mark: 15-5: _Testing with  React-Redux_
+:heavy_check_mark: 15-5: _Testing with  React-Redux_
 
-:white_check_mark:15-6: _Project - Trybe Wallet_
-
-
-### Part 16: React Project
-
-:white_check_mark: 16-1: _Project - Trivia Game_
+:heavy_check_mark:15-6: _Project - Trybe Wallet_
 
 
-### Part 17: Context API & Reack Hooks
+### [Part 16: React Project](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/front-end/bloco-16-projeto-jogo-de-trivia/)
 
-:white_check_mark: 17-1: _Context API do React_
+:heavy_check_mark: 16-1: _Project - Trivia Game_
 
-:white_check_mark: 17-2: _React Hooks - useState e useContext_
+
+### [Part 17: Context API & Reack Hooks](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/front-end/bloco-17-context-api-e-react-hooks/)
+
+:heavy_check_mark: 17-1: _Context API do React_
+
+:heavy_check_mark: 17-2: _React Hooks - useState e useContext_
 
 :white_check_mark: 17-3: _React Hooks - useEffect e Hooks customized_
 
@@ -616,27 +616,27 @@
 
 :heavy_check_mark: 15-1: _Introdução ao Redux - O estado global da aplicação_
 
-:white_check_mark: 15-2: _Usando o Redux no React_
+:heavy_check_mark: 15-2: _Usando o Redux no React_
 
-:white_check_mark: 15-3: _Usando o Redux no React - Prática_
+:heavy_check_mark: 15-3: _Usando o Redux no React - Prática_
 
-:white_check_mark: 15-4: _Usando o Redux no React - Actions Assíncronas_
+:heavy_check_mark: 15-4: _Usando o Redux no React - Actions Assíncronas_
 
-:white_check_mark: 15-5: _Testes em React-Redux_
+:heavy_check_mark: 15-5: _Testes em React-Redux_
 
-:white_check_mark:15-6: _Projeto - Trybe Wallet_
+:heavy_check_mark:15-6: _Projeto - Trybe Wallet_
   
 
-### Bloco 16: Projeto React
+### [Bloco 16: Projeto React](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/front-end/bloco-16-projeto-jogo-de-trivia/)
 
-:white_check_mark: 16-1: _Projeto - Jogo de Trivia_
+:heavy_check_mark: 16-1: _Projeto - Jogo de Trivia_
 
 
-### Bloco 17: Context API & Reack Hooks
+### [Bloco 17: Context API & Reack Hooks](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/front-end/bloco-17-context-api-e-react-hooks)
 
-:white_check_mark: 17-1: _Context API do React_
+:heavy_check_mark: 17-1: _Context API do React_
 
-:white_check_mark: 17-2: _React Hooks - useState e useContext_
+:heavy_check_mark: 17-2: _React Hooks - useState e useContext_
 
 :white_check_mark: 17-3: _React Hooks - useEffect e Hooks customizados_
 

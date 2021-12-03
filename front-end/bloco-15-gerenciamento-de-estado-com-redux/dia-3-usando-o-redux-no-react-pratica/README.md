@@ -5,9 +5,9 @@
 ## State Management with Redux
 
 
-### Block 15.1: [Introduction to Redux - The global state of the application] :heavy_check_mark:
+### Block 15.3: [Status management with Redux]: heavy_check_mark:
 
-** Descriptions: ** Learn how to create a Store to store the status of an app and how to use Dimmers and Actions to update the Store.
+** Descriptions: ** Learn how Redux manages application state.
 
 # Versão em português - Trybe
 
@@ -16,6 +16,6 @@
 ## Gerenciamento de estado com Redux
 
 
-### Bloco 15.1: [Introdução ao Redux - O estado global da aplicação] :heavy_check_mark:
+### Bloco 15.3: [Gerenciamento de estado com Redux] :heavy_check_mark:
 
-**Descrições:** aprender a criar uma Store para armazenar o estado de uma aplicação e a utilizar Reducers e Actions para atualizar a Store.
+**Descrições:** aprender como o Redux faz o gerenciamento de estado da aplicação.
