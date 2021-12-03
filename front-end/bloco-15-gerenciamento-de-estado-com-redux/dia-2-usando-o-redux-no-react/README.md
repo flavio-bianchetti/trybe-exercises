@@ -7,7 +7,7 @@
 
 ### Block 15.2: [Using Redux in React] :heavy_check_mark:
 
-** Descriptions: ** Learn how to store, reducers, actions and dispatchers in Redux and how to connect Redux to React components.
+**Descriptions:** Learn how to store, reducers, actions and dispatchers in Redux and how to connect Redux to React components.
 
 # Versão em português - Trybe
 

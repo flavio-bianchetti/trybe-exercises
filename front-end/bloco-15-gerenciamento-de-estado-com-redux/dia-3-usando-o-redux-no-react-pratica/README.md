@@ -5,9 +5,9 @@
 ## State Management with Redux
 
 
-### Block 15.3: [Status management with Redux]: heavy_check_mark:
+### Block 15.3: [Status management with Redux] :heavy_check_mark:
 
-** Descriptions: ** Learn how Redux manages application state.
+**Descriptions:** Learn how Redux manages application state.
 
 # Versão em português - Trybe
 

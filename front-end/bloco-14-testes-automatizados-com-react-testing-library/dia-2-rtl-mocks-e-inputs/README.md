@@ -9,11 +9,11 @@
 
 ### Parts 1 and 2
 
-** Descriptions: ** Learn to use dummy functions to simulate functions and their returns, create dummy APIs using search and test inputs.
+**Descriptions:** Learn to use dummy functions to simulate functions and their returns, create dummy APIs using search and test inputs.
 
 ### Exercises:
 
-One of the exercises worked on in this block can be found _ [here](https://github.com/tryber/react-and-mocky) _.
+One of the exercises worked on in this block can be found _[here](https://github.com/tryber/react-and-mocky)_.
 
 # Versão em português - Trybe
 

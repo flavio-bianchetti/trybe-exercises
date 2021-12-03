@@ -7,11 +7,11 @@
 
 ### Block 17.1: [React Context API] :heavy_check_mark:
 
-** Descriptions: ** Learn how to use React's Context API to manage state.
+**Descriptions:** Learn how to use React's Context API to manage state.
 
 ### Exercise:
 
-The exercise worked in this block can be found _[here] (https://github.com/flavio-bianchetti/exercise-contextAPI-refactoring)_.
+The exercise worked in this block can be found _[here](https://github.com/flavio-bianchetti/exercise-contextAPI-refactoring)_.
 
 # Versão em português - Trybe
 
