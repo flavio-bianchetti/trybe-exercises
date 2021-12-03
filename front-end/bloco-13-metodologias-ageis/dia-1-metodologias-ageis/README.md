@@ -9,7 +9,7 @@
 
 ### Part 1
 
-** Descriptions: ** Learn what Kanban and Scrum are and how to use them to work effectively as a team.
+**Descriptions:** Learn what Kanban and Scrum are and how to use them to work effectively as a team.
 
 # Versão em português - Trybe
 

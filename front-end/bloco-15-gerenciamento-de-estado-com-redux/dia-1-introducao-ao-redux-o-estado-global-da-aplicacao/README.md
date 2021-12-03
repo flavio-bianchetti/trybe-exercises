@@ -7,7 +7,7 @@
 
 ### Block 15.1: [Introduction to Redux - The global state of the application] :heavy_check_mark:
 
-** Descriptions: ** Learn how to create a Store to store the status of an app and how to use Dimmers and Actions to update the Store.
+**Descriptions:** Learn how to create a Store to store the status of an app and how to use Dimmers and Actions to update the Store.
 
 # Versão em português - Trybe
 

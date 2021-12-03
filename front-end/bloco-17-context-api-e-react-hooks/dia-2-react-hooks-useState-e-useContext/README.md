@@ -7,11 +7,11 @@
 
 ### Block 17.2: [React Hooks - useState and useContext] :heavy_check_mark:
 
-** Descriptions: ** Learn to use the useState and useContext React hooks.
+**Descriptions:** Learn to use the useState and useContext React hooks.
 
 ### Exercise:
 
-The exercise worked in this block can be found _[here] (https://github.com/flavio-bianchetti/exercise-react-hooks-refactoring)_.
+The exercise worked in this block can be found _[here](https://github.com/flavio-bianchetti/exercise-react-hooks-refactoring)_.
 
 # Versão em português - Trybe
 

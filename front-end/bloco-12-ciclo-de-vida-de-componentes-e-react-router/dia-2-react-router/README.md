@@ -9,7 +9,7 @@
 
 ### Part 1
 
-** Descriptions: ** Learn to use the React Router which makes apps navigable and also use props.children which allows you to flex a component's logic.
+**Descriptions:** Learn to use the React Router which makes apps navigable and also use props.children which allows you to flex a component's logic.
 
 ### Exercise:
 

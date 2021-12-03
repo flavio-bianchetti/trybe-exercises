@@ -7,7 +7,7 @@
 
 ### Block 16.1: [Project - Trivia Game] :heavy_check_mark:
 
-** Descriptions: ** put into practice the contents learned previously about React and Redux in this group project using the agile Kanban methodology.
+**Descriptions:** put into practice the contents learned previously about React and Redux in this group project using the agile Kanban methodology.
 
 # Versão em português - Trybe
 

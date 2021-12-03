@@ -9,7 +9,7 @@
 
 ### Part 1
 
-** Descriptions: ** Learn how to use selectors in automated tests, simulate events, and test asynchronous logic flows with the React Test Library.
+**Descriptions:** Learn how to use selectors in automated tests, simulate events, and test asynchronous logic flows with the React Test Library.
 
 ### Exercise:
 

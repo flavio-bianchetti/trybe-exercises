@@ -7,7 +7,7 @@
 
 ### Block 15.5: [Tests in React-Redux] :heavy_check_mark:
 
-** Descriptions: ** Learn to test React-Redux apps synchronously.
+**Descriptions:** Learn to test React-Redux apps synchronously.
 
 # Versão em português - Trybe
 

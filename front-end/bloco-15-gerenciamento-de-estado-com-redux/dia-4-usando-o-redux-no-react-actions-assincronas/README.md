@@ -5,9 +5,9 @@
 ## State Management with Redux
 
 
-### Block 15.4: [Using Redux in React - Asynchronous Actions]: heavy_check_mark:
+### Block 15.4: [Using Redux in React - Asynchronous Actions] :heavy_check_mark:
 
-** Descriptions: ** Learn how to create asynchronous actions in React apps that use Redux.
+**Descriptions:** Learn how to create asynchronous actions in React apps that use Redux.
 
 # Versão em português - Trybe
 
