@@ -5,9 +5,9 @@
 ## State Management with Redux
 
 
-### Block 15.1: [Introduction to Redux - The global state of the application] :heavy_check_mark:
+### Block 15.4: [Using Redux in React - Asynchronous Actions]: heavy_check_mark:
 
-** Descriptions: ** Learn how to create a Store to store the status of an app and how to use Dimmers and Actions to update the Store.
+** Descriptions: ** Learn how to create asynchronous actions in React apps that use Redux.
 
 # Versão em português - Trybe
 
@@ -16,6 +16,6 @@
 ## Gerenciamento de estado com Redux
 
 
-### Bloco 15.1: [Introdução ao Redux - O estado global da aplicação] :heavy_check_mark:
+### Bloco 15.4: [Usando o Redux no React - Actions Assíncronas] :heavy_check_mark:
 
-**Descrições:** aprender a criar uma Store para armazenar o estado de uma aplicação e a utilizar Reducers e Actions para atualizar a Store.
+**Descrições:** aprender a criar actions assíncronas em aplicações React que faz uso de Redux.
