@@ -191,7 +191,7 @@
 
 :heavy_check_mark: 15-5: _Testing with  React-Redux_
 
-:heavy_check_mark:15-6: _Project - Trybe Wallet_
+:heavy_check_mark: 15-6: _Project - Trybe Wallet_
 
 
 ### [Part 16: React Project](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/front-end/bloco-16-projeto-jogo-de-trivia/)
@@ -205,9 +205,9 @@
 
 :heavy_check_mark: 17-2: _React Hooks - useState e useContext_
 
-:white_check_mark: 17-3: _React Hooks - useEffect e Hooks customized_
+:heavy_check_mark: 17-3: _React Hooks - useEffect e Hooks customized_
 
-:white_check_mark: 17-4: _Project - StarWars Datatable com Context API e Hooks_
+:heavy_check_mark: 17-4: _Project - StarWars Datatable com Context API e Hooks_
 
 
 ### Part 18: Front-end's final project
@@ -624,7 +624,7 @@
 
 :heavy_check_mark: 15-5: _Testes em React-Redux_
 
-:heavy_check_mark:15-6: _Projeto - Trybe Wallet_
+:heavy_check_mark: 15-6: _Projeto - Trybe Wallet_
   
 
 ### [Bloco 16: Projeto React](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/front-end/bloco-16-projeto-jogo-de-trivia/)
@@ -638,9 +638,9 @@
 
 :heavy_check_mark: 17-2: _React Hooks - useState e useContext_
 
-:white_check_mark: 17-3: _React Hooks - useEffect e Hooks customizados_
+:heavy_check_mark: 17-3: _React Hooks - useEffect e Hooks customizados_
 
-:white_check_mark: 17-4: _Projeto - StarWars Datatable com Context API e Hooks_
+:heavy_check_mark: 17-4: _Projeto - StarWars Datatable com Context API e Hooks_
 
 
 ### Bloco 18: Projeto Final de Front-end
