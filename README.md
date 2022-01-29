@@ -131,7 +131,7 @@
 
 :heavy_check_mark: 10-4: _Project - Asynchronous Jest and Mocking_
 
-## Front-end development :hourglass_flowing_sand:
+## Front-end development :mortar_board:
 
 
 ### [Part 11-A: Introduction to React](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/front-end/bloco-11-a-introducao-a-react/)
@@ -210,153 +210,156 @@
 :heavy_check_mark: 17-4: _Project - StarWars Datatable com Context API e Hooks_
 
 
-### Part 18: Front-end's final project
+### [Part 18: Front-end's final project](https://github.com/flavio-bianchetti/receitas-da-vovo)
 
-:white_check_mark: 18-1: _Project - Recipes app_
+:heavy_check_mark: 18-1: _Project - Recipes app_
 
-## Back-end development :lock:
-
-
-### Part 19: Introduction - SQL
-
-:white_check_mark: 19-1: _Bank Database using SQL_
-
-:white_check_mark: 19-2: _Finding data in a database_
-
-:white_check_mark: 19-3: _Filtering data in a specific way_
-
-:white_check_mark: 19-4: _Manipulating tables with SQL_
-
-:white_check_mark: 19-5: _Project - All For One_
-
- 
-### Part 20: Functions SQL, Joins and Subqueries
-
-:white_check_mark: 20-1: _Most used functions in SQL_
-
-:white_check_mark: 20-2: _JOINs, UNIONs e Subqueries_
-
-:white_check_mark: 20-3: _Stored Routines & Stored Functions_
-
-:white_check_mark: 20-4: _Project - Vocabulary Booster_
+## Back-end development :hourglass_flowing_sand:
 
 
-### Part 21: Normalization and structuring database
+### [Block 19: Docker: Using Containers](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/back-end/bloco-19-docker/)
 
-:white_check_mark: 21-1: _Transforming ideias in a database model - Part 1_
 
-:white_check_mark: 21-2: _Normalization, Normal form and Dumps_
+:heavy_check_mark: 19-1: _Using Containers - Docker_
 
-:white_check_mark: 21-2: _Transforming ideias in a database model - Part 2_
+:heavy_check_mark: 19-2: _Manipulating and Creating Images in Docker_
 
-:white_check_mark: 21-3: _Project - One For All_
+:heavy_check_mark: 19-3: _Orchestrating Containers with Docker Compose_
+
+:heavy_check_mark: 19-4: _Project - Docker Todo-List_
+
+
+### [Block 20: Introduction - SQL](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/back-end/bloco-20-introducao-a-sql/)
+
+:heavy_check_mark: 20-1: _SQL Database_
+
+:heavy_check_mark: 20-2: _Finding data in a database_
+
+:heavy_check_mark: 20-3: _Specifically filtering data_
+
+:heavy_check_mark: 20-4: _Manipulating tables_
+
+:heavy_check_mark: 20-5: _Project - All For One_
 
  
-### Part 22: Introduction - MongoDB
+### Block 21: SQL Functions, Joins and Normalization
 
-:white_check_mark: 22-1: _Introduction to NoSQL e MongoDB_
+:white_check_mark: 21-1: _Most used functions in SQL_
 
-:white_check_mark: 22-2: _Filter Operators_
+:white_check_mark: 21-2: _Uncomplicating JOINs_
 
-:white_check_mark: 22-3: _Project - Data Flights_
+:white_check_mark: 21-3: _Turning ideas into a database model_
+
+:white_check_mark: 21-4: _Live class + Project - One For All_
 
 
-### Part 23: MongoDB: Simple and complex updates
+### Block 22: Introduction to Web Development with Node.js
 
-:white_check_mark: 23-1: _Simple Updates _
+:white_check_mark: 22-1: _Node.js - A JavaScript engine_
 
-:white_check_mark: 23-2: _Complex Updates  - Arrays - Part 1_
+:white_check_mark: 22-2: _Node.js - Asynchronous Stream_
 
-:white_check_mark: 23-3: _Complex Updates - Arrays - Part 2_
+:white_check_mark: 22-3: _Mocha, Chai and Sinon - Backend Tests with Node.js_
 
-:white_check_mark: 23-4: _Project - Commerce_
+:white_check_mark: 22-4: _Express - HTTP with Node.js_
+
+:white_check_mark: 22-5: _Express - Middlewares_
+
+:white_check_mark: 22-6: _Project - Talker Manager_
+
+ 
+### Block 23: Introduction - Node.js: Service Layer and Rest and Restful Architecture
+
+:white_check_mark: 23-1: _Software Architecture - Model Layer_
+
+:white_check_mark: 23-2: _Software Architecture - Controller and Service Layer_
+
+:white_check_mark: 23-3: _Web Architecture - Rest and Restful_
+
+:white_check_mark: 23-4: _Software Architecture - Testing the Layers_
+
+:white_check_mark: 23-5: _Project - Store Manager_
+
+### Block 24: Node.js: ORM and Authentication
+
+:white_check_mark: 24-1: _ORM - Application interface with database_
+
+:white_check_mark: 24-2: _ORM - Associations_
+
+:white_check_mark: 24-3: _JWT - (JSON Web Token)_
+
+:white_check_mark: 24-4: _Testing APIs with Integration Tests_
+
+:white_check_mark: 24-5: _Project - Blogs API_
 
   
-### Part 24: MongoDB: Aggregation Framework
+### Block 25: Deployment
 
-:white_check_mark: 24-1: _Aggregation Framework - Part 1_
+:white_check_mark: 25-1: _Infrastructure - Deploy with Heroku_
 
-:white_check_mark: 24-2: _Aggregation Framework - Part 2_
+:white_check_mark: 25-2: _Deploy Docker & Heroku_
 
-:white_check_mark: 24-3: _Project - Aggregations_
-
-
-### Part 25: Introduction - NodeJS
-
-:white_check_mark: 25-1: _NodeJS - Introduçtion_
-
-:white_check_mark: 25-2: _NodeJS - Asynchronous flow_
-
-:white_check_mark: 25-3: _Testing with NodeJS_
-
-:white_check_mark: 25-4: _Express: HTTP with Node.js_
-
-:white_check_mark: 25-5: _Practicing Express_
-
-:white_check_mark: 25-6: _Project - Talker Manager_
-
-
-### Part 26: NodeJS: Service layer, Rest and Restful Architecture
-
-:white_check_mark: 26-1: _Introduction, Service Layer e Layered: Software Architecture_
-
-:white_check_mark: 26-2: _Software Architecture - Service layer and controller_
-
-:white_check_mark: 26-3: _Web Architecture - Rest and Restful_
-
-:white_check_mark: 26-4: _Software Architecture - Testing layers_
-
-:white_check_mark: 26-3: _Project - Store Manager_
-
+:white_check_mark: 25-3: _Project - Stranger Things_
  
-### Part 27: Authentication and file uploads
+### Block 26: TypeScript
 
-:white_check_mark: 27-1: _NodeJS - JWT - (JSON Web Token)_
+:white_check_mark: 26-1: _Introduction to TypeScript_
 
-:white_check_mark: 27-2: _NodeJS - Uploading files with "multer"_
+:white_check_mark: 26-2: _Static Typing and Generics_
 
-:white_check_mark: 27-3: _Testing APIs with Integration Test_
+:white_check_mark: 26-3: _Express with TypeScript_
 
-:white_check_mark: 27-3: _Project - Cookmaster_
-
-### Part 28: Deployment
-
-:white_check_mark: 28-1: _Introduction - Deploy_
-
-:white_check_mark: 28-1: _Heroku Deployment_
-
-:white_check_mark: 28-2: _Process Managers_
-
-:white_check_mark: 28-3: _Project - Stranger Things_
+:white_check_mark: 26-4: _Project - Trybe Smith_
 
 
-### Part 29: Architecture: SOLID and ORM
+### Block 27: Object Oriented Programming (OOP) and SOLID
 
-:white_check_mark: 29-1: _Architecture - SOLID principles_
+:white_check_mark: 27-1: _Introduction to Object Orientation_
 
-:white_check_mark: 29-2: _ORM_
+:white_check_mark: 27-2: _Inheritance and Interfaces_
 
-:white_check_mark: 29-3: _ORM - Associations_
+:white_check_mark: 27-3: _Polymorphism_
 
-:white_check_mark: 29-4: _Project - Blog's API_
+:white_check_mark: 27-4: _SOLID - Introduction and Principles S, O and D_
+
+:white_check_mark: 27-5: _SOLID - L and I Principles_
+
+:white_check_mark: 27-6: _Project - Trybers and Dragons_
+
+### Block 28: Project - TFC - Trybe Futebol Clube
+
+:white_check_mark: 28-1: _Project - Trybe Futebol Clube_
+ 
+### Block 29: Introduction to MongoDB
+
+:white_check_mark: 29-1: _MongoDB - Introduction_
+
+:white_check_mark: 29-2: _Filter Operators_
+
+:white_check_mark: 29-3: _Project - Data Flights_
 
 
-### Part 30: Sockets
+### Block 30: MongoDB: Simple and Complex Updates
 
-:white_check_mark: 30-1: _Software Architecture - View's layer_
+:white_check_mark: 30-1: _Simple Updates_
 
-:white_check_mark: 30-2: _Sockets - TCP/UDP & NET_
+:white_check_mark: 30-2: _Complex Updates - Arrays - Part 1_
 
-:white_check_mark: 30-3: _Sockets - Socket.io_
+:white_check_mark: 30-3: _Update Complexes - Arrays - Part 2_
 
-:white_check_mark: 30-4 _Sockets - Practicing Socket.io_
-
-:white_check_mark: 30-5: _Project - Webchat_
+:white_check_mark: 30-4: _Project - Commerce_
 
 
-### Part 31: Project
+### Block 31: MasterClass - VPS, CI/CD
 
--:white_check_mark: 33-1: _Project - Trybeer V_
+:white_check_mark: 31-1: _Day 1_
+
+:white_check_mark: 31-2: _Day 2_
+
+
+### Block 32: Project - Delivery App
+
+:white_check_mark: 32-1: _Project - Delivery App_
 
 
 ## Computer Science :lock:
@@ -566,7 +569,7 @@
 :heavy_check_mark: 10-4: _Projeto - Jest Assíncrono e Mocking_
 
   
-## Desenvolvimento Front-end :hourglass_flowing_sand:
+## Desenvolvimento Front-end :mortar_board:
 
 
 ### [Bloco 11-A: Introdução à React](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/front-end/bloco-11-a-introducao-a-react/)
@@ -643,154 +646,156 @@
 :heavy_check_mark: 17-4: _Projeto - StarWars Datatable com Context API e Hooks_
 
 
-### Bloco 18: Projeto Final de Front-end
+### [Bloco 18: Projeto Final de Front-end](https://github.com/flavio-bianchetti/receitas-da-vovo)
 
-:white_check_mark: 18-1: _Projeto - App de Receitas_
+:heavy_check_mark: 18-1: _Projeto - App de Receitas_
 
 
 ## Desenvolvimento Back-end :lock:
 
 
-### Bloco 19: Introdução - SQL
+### [Bloco 19: Docker: Utilizando Containers](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/back-end/bloco-19-docker/)
 
-:white_check_mark: 19-1: _Banco de dados SQL_
+:heavy_check_mark: 19-1: _Utilizando Containers - Docker_
 
-:white_check_mark: 19-2: _Encontrando dados em um banco de dados_
+:heavy_check_mark: 19-2: _Manipulação e Criação de Imagens no Docker_
 
-:white_check_mark: 19-3: _Filtrando dados de forma especí­fica_
+:heavy_check_mark: 19-3: _Orquestrando Containers com Docker Compose_
 
-:white_check_mark: 19-4: _Manipulando tabelas_
-
-:white_check_mark: 19-5: _Projeto - All For One_
-
- 
-### Bloco 20: Funções SQL, Joins e Subqueries
-
-:white_check_mark: 20-1: _Funções mais usadas no SQL_
-
-:white_check_mark: 20-2: _Descomplicando JOINs, UNIONs e Subqueries_
-
-:white_check_mark: 20-3: _Stored Routines & Stored Functions_
-
-:white_check_mark: 20-4: _Projeto - Vocabulary Booster_
+:heavy_check_mark: 19-4: _Projeto - Docker Todo-List_
 
 
-### Bloco 21: Normalização e Modelagem de Banco de Dados
+### [Bloco 20: Introdução - SQL](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/back-end/bloco-20-introducao-a-sql/)
 
-:white_check_mark: 21-1: _Transformando ideias em um modelo de banco de dados - Parte 1_
+:heavy_check_mark: 20-1: _Banco de dados SQL_
 
-:white_check_mark: 21-2: _Normalização, Formas Normais e Dumps_
+:heavy_check_mark: 20-2: _Encontrando dados em um banco de dados_
 
-:white_check_mark: 21-2: _Transformando ideias em um modelo de banco de dados - Parte 2_
+:heavy_check_mark: 20-3: _Filtrando dados de forma especí­fica_
 
-:white_check_mark: 21-3: _Projeto - One For All_
+:heavy_check_mark: 20-4: _Manipulando tabelas_
+
+:heavy_check_mark: 20-5: _Projeto - All For One_
 
  
-### Bloco 22: Introdução - MongoDB
+### Bloco 21: Funções SQL, Joins e Normalização
 
-:white_check_mark: 22-1: _Introdução NoSQL e MongoDB_
+:white_check_mark: 21-1: _Funções mais usadas no SQL_
 
-:white_check_mark: 22-2: _Filter Operators_
+:white_check_mark: 21-2: _Descomplicando JOINs_
 
-:white_check_mark: 22-3: _Projeto - Data Flights_
+:white_check_mark: 21-3: _Transformando ideias em um modelo de banco de dados_
+
+:white_check_mark: 21-4: _Aula ao vivo + Projeto - One For All_
 
 
-### Bloco 23: MongoDB: Updates simples e complexos
+### Bloco 22: Introdução ao desenvolvimento Web com Node.js
 
-:white_check_mark: 23-1: _Updates Simples_
+:white_check_mark: 22-1: _Node.js - Um motor JavaScript_
 
-:white_check_mark: 23-2: _Updates Complexos - Arrays - Parte 1_
+:white_check_mark: 22-2: _Node.js - Fluxo Assíncrono_
 
-:white_check_mark: 23-3: _Updates Complexos - Arrays - Parte 2_
+:white_check_mark: 22-3: _Mocha, Chai e Sinon - Testes de Back-end com Node.js_
 
-:white_check_mark: 23-4: _Projeto - Commerce_
+:white_check_mark: 22-4: _Express - HTTP com Node.js_
+
+:white_check_mark: 22-5: _Express - Middlewares_
+
+:white_check_mark: 22-6: _Projeto - Talker Manager_
+
+ 
+### Bloco 23: Introdução - Node.js: Camada de Serviço e Arquitetura Rest e Restful
+
+:white_check_mark: 23-1: _Arquitetura de Software - Camada de Model_
+
+:white_check_mark: 23-2: _Arquitetura de Software - Camada de Controller e Service_
+
+:white_check_mark: 23-3: _Arquitetura Web - Rest e Restful_
+
+:white_check_mark: 23-4: _Arquitetura de Software - Testando as Camadas_
+
+:white_check_mark: 23-5: _Projeto - Store Manager_
+
+### Bloco 24: Node.js: ORM e Autenticação
+
+:white_check_mark: 24-1: _ORM - Interface da aplicação com o banco de dados_
+
+:white_check_mark: 24-2: _ORM - Associations_
+
+:white_check_mark: 24-3: _JWT - (JSON Web Token)_
+
+:white_check_mark: 24-4: _Testando APIs com Testes de Integração_
+
+:white_check_mark: 24-5: _Projeto - API de Blogs_
 
   
-### Bloco 24: MongoDB: Aggregation Framework
+### Bloco 25: Deployment
 
-:white_check_mark: 24-1: _Aggregation Framework - Part 1_
+:white_check_mark: 25-1: _Infraestrutura - Deploy com Heroku_
 
-:white_check_mark: 24-2: _Aggregation Framework - Part 2_
+:white_check_mark: 25-2: _Deploy Docker & Heroku_
 
-:white_check_mark: 24-3: _Projeto - Aggregations_
+:white_check_mark: 25-3: _Projeto - Stranger Things_
  
-### Bloco 25: Introdução - NodeJS
+### Bloco 26: TypeScript
 
-:white_check_mark: 25-1: _NodeJS - Introdução_
+:white_check_mark: 26-1: _Introdução ao TypeScript_
 
-:white_check_mark: 25-2: _NodeJS - Fluxo Assí­ncrono_
+:white_check_mark: 26-2: _Tipagem Estática e Generics_
 
-:white_check_mark: 25-3: _Testes com NodeJS_
+:white_check_mark: 26-3: _Express com TypeScript_
 
-:white_check_mark: 25-4: _Express: HTTP com Node.js_
-
-:white_check_mark: 25-5: _Praticando Express_
-
-:white_check_mark: 25-6: _Projeto - Talker Manager_
+:white_check_mark: 26-4: _Projeto - Trybe Smith_
 
 
-### Bloco 26: NodeJS: Camada de Serviço e Arquitetura Rest e Restful
+### Bloco 27: Programação Orientada a Objetos (POO) e SOLID
 
-:white_check_mark: 26-1: _Introdução e Camada de Model: Arquitetura de Software_
+:white_check_mark: 27-1: _Introdução à Orientação a Objetos_
 
-:white_check_mark: 26-2: _Arquitetura de Software - Camada de Controller e Service_
+:white_check_mark: 27-2: _Herança e Interfaces_
 
-:white_check_mark: 26-3: _Arquitetura Web - Rest e Restful_
+:white_check_mark: 27-3: _Polimorfismo_
 
-:white_check_mark: 26-4: _Arquitetura de Software - Testando as Camadas_
+:white_check_mark: 27-4: _SOLID - Introdução e Princípios S, O e D_
 
-:white_check_mark: 26-3: _Projeto - Store Manager_
+:white_check_mark: 27-5: _SOLID - Princípios L e I_
 
+:white_check_mark: 27-6: _Projeto - Trybers and Dragons_
+
+### Bloco 28: Projeto - TFC - Trybe Futebol Clube
+
+:white_check_mark: 28-1: _Projeto - Trybe Futebol Clube_
  
-### Bloco 27: Autenticação e Upload de Arquivos
+### Bloco 29: Introdução ao MongoDB
 
-:white_check_mark: 27-1: _NodeJS - JWT - (JSON Web Token)_
+:white_check_mark: 29-1: _MongoDB - Introdução_
 
-:white_check_mark: 27-2: _NodeJS - Updolad de arquivos com "multer"_
+:white_check_mark: 29-2: _Filter Operators_
 
-:white_check_mark: 27-3: _Testando APIs com Teste de Integração_
-
-:white_check_mark: 27-3: _Projeto - Cookmaster_
+:white_check_mark: 29-3: _Projeto - Data Flights_
 
 
-### Bloco 28: Depoloyment
+### Bloco 30: MongoDB: Updates Simples e Complexos
 
-:white_check_mark: 28-1: _Introdução - Deploy_
+:white_check_mark: 30-1: _Updates Simples_
 
-:white_check_mark: 28-1: _Infraestrutura - Deploy com Heroku_
+:white_check_mark: 30-2: _Updates Complexos - Arrays - Parte 1_
 
-:white_check_mark: 28-2: _Gerenciadores de Processos_
+:white_check_mark: 30-3: _Update Complexos - Arrays - Parte 2_
 
-:white_check_mark: 28-3: _Projeto - Stranger Things_
-
-
-### Bloco 29: Arquitetura: SOLID e ORM
-
-:white_check_mark: 29-1: _Arquitetura - Princípios SOLID_
-
-:white_check_mark: 29-2: _ORM - Interface da aplicação com o banco de dados_
-
-:white_check_mark: 29-3: _ORM - Associations_
-
-:white_check_mark: 29-4: _Projeto - API de Blogs_
+:white_check_mark: 30-4: _Projeto - Commerce_
 
 
-### Bloco 30: Sockets
+### Bloco 31: MasterClass - VPS, CI/CD
 
-:white_check_mark: 30-1: _Arquitetura de Software - Camada de View_
+:white_check_mark: 31-1: _Dia 1_
 
-:white_check_mark: 30-2: _Sockets - TCP/UDP & NET_
-
-:white_check_mark: 30-3: _Sockets - Socket.io_
-
-:white_check_mark: 30-4 _Sockets - Praticando Socket.io_
-
-:white_check_mark: 30-5: _Projeto - Webchat_
+:white_check_mark: 31-2: _Dia 2_
 
 
-### Bloco 31: Projeto
+### Bloco 32: Projeto - App de Delivery
 
-:white_check_mark: 31-1: _Projeto - Trybeer V_
+:white_check_mark: 32-1: _Projeto - App de Delivery_
 
 
 ## Ciência da Computação :lock:
