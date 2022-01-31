@@ -244,7 +244,7 @@
  
 ### Block 21: SQL Functions, Joins and Normalization
 
-:white_check_mark: 21-1: _Most used functions in SQL_
+:heavy_check_mark: 21-1: _Most used functions in SQL_
 
 :white_check_mark: 21-2: _Uncomplicating JOINs_
 
@@ -680,7 +680,7 @@
  
 ### Bloco 21: Funções SQL, Joins e Normalização
 
-:white_check_mark: 21-1: _Funções mais usadas no SQL_
+:heavy_check_mark: 21-1: _Funções mais usadas no SQL_
 
 :white_check_mark: 21-2: _Descomplicando JOINs_
 
