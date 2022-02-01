@@ -246,7 +246,7 @@
 
 :heavy_check_mark: 21-1: _Most used functions in SQL_
 
-:white_check_mark: 21-2: _Uncomplicating JOINs_
+:heavy_check_mark: 21-2: _Uncomplicating JOINs_
 
 :white_check_mark: 21-3: _Turning ideas into a database model_
 
@@ -682,7 +682,7 @@
 
 :heavy_check_mark: 21-1: _Funções mais usadas no SQL_
 
-:white_check_mark: 21-2: _Descomplicando JOINs_
+:heavy_check_mark: 21-2: _Descomplicando JOINs_
 
 :white_check_mark: 21-3: _Transformando ideias em um modelo de banco de dados_
 
