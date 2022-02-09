@@ -35,7 +35,7 @@
 
 :heavy_check_mark: 3-4: _HTML semantic elements_
 
-:heavy_check_mark: 3-5: _Project - Lesson Learned_
+:heavy_check_mark: 3-5: _[Project - Lesson Learned](https://github.com/flavio-bianchetti/lessons-learned-project)_
   
 ### [Part 4: Introduction - JavaScript e Logic](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-4-introducao-a-javascript-e-logica-de-programacao/)
 
@@ -472,7 +472,7 @@
 
 :heavy_check_mark: 3-4: _HTML Semântico_
 
-:heavy_check_mark: 3-5: _Projeto - Lesson Learned_
+:heavy_check_mark: 3-5: _[Projeto - Lesson Learned](https://github.com/flavio-bianchetti/lessons-learned-project)_
   
 
 ### [Bloco 4: Introdução - JavaScript e Lógica](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/fundamentos/bloco-4-introducao-a-javascript-e-logica-de-programacao/)
