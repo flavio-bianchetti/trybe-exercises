@@ -237,25 +237,25 @@
 
 :heavy_check_mark: 20-3: _Specifically filtering data_
 
-:heavy_check_mark: 20-4: _Manipulating tables_
+:heavy_check_mark: 20-4: _Transforming ideas into a database model_
 
 :heavy_check_mark: 20-5: _Project - All For One_
 
  
-### Block 21: SQL Functions, Joins and Normalization
+### [Block 21: SQL Functions, Joins and Normalization](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/back-end/bloco-21-funcoes-sql-joins-e-normalizacao/)
 
 :heavy_check_mark: 21-1: _Most used functions in SQL_
 
 :heavy_check_mark: 21-2: _Uncomplicating JOINs_
 
-:white_check_mark: 21-3: _Turning ideas into a database model_
+:heavy_check_mark: 21-3: _Turning ideas into a database model_
 
-:white_check_mark: 21-4: _Live class + Project - One For All_
+:heavy_check_mark: 21-4: _Live class + Project - One For All_
 
 
-### Block 22: Introduction to Web Development with Node.js
+### [Block 22: Introduction to Web Development with Node.js](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/back-end/bloco-22-introducao-ao-desenvolvimento-web-com-nodejs/)
 
-:white_check_mark: 22-1: _Node.js - A JavaScript engine_
+:heavy_check_mark: 22-1: _Node.js - A JavaScript engine_
 
 :white_check_mark: 22-2: _Node.js - Asynchronous Stream_
 
@@ -678,20 +678,21 @@
 :heavy_check_mark: 20-5: _Projeto - All For One_
 
  
-### Bloco 21: Funções SQL, Joins e Normalização
+### [Bloco 21: Funções SQL, Joins e Normalização](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/back-end/bloco-21-funcoes-sql-joins-e-normalizacao/)
 
 :heavy_check_mark: 21-1: _Funções mais usadas no SQL_
 
 :heavy_check_mark: 21-2: _Descomplicando JOINs_
 
-:white_check_mark: 21-3: _Transformando ideias em um modelo de banco de dados_
+:heavy_check_mark: 21-3: _Transformando ideias em um modelo de banco de dados_
 
-:white_check_mark: 21-4: _Aula ao vivo + Projeto - One For All_
+:heavy_check_mark: 21-4: _Aula ao vivo + Projeto - One For All_
 
 
-### Bloco 22: Introdução ao desenvolvimento Web com Node.js
+### [Bloco 22: Introdução ao desenvolvimento Web com Node.js](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/back-end/bloco-22-introducao-ao-desenvolvimento-web-com-nodejs/)
 
-:white_check_mark: 22-1: _Node.js - Um motor JavaScript_
+
+:heavy_check_mark: 22-1: _Node.js - Um motor JavaScript_
 
 :white_check_mark: 22-2: _Node.js - Fluxo Assíncrono_
 
