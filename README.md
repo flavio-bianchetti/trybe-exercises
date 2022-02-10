@@ -257,7 +257,7 @@
 
 :heavy_check_mark: 22-1: _Node.js - A JavaScript engine_
 
-:white_check_mark: 22-2: _Node.js - Asynchronous Stream_
+:heavy_check_mark: 22-2: _Node.js - Asynchronous Stream_
 
 :white_check_mark: 22-3: _Mocha, Chai and Sinon - Backend Tests with Node.js_
 
@@ -694,7 +694,7 @@
 
 :heavy_check_mark: 22-1: _Node.js - Um motor JavaScript_
 
-:white_check_mark: 22-2: _Node.js - Fluxo Assíncrono_
+:heavy_check_mark: 22-2: _Node.js - Fluxo Assíncrono_
 
 :white_check_mark: 22-3: _Mocha, Chai e Sinon - Testes de Back-end com Node.js_
 
