@@ -261,7 +261,7 @@
 
 :heavy_check_mark: 22-3: _Mocha, Chai and Sinon - Backend Tests with Node.js_
 
-:white_check_mark: 22-4: _Express - HTTP with Node.js_
+:heavy_check_mark: 22-4: _Express - HTTP with Node.js_
 
 :white_check_mark: 22-5: _Express - Middlewares_
 
@@ -698,7 +698,7 @@
 
 :heavy_check_mark: 22-3: _Mocha, Chai e Sinon - Testes de Back-end com Node.js_
 
-:white_check_mark: 22-4: _Express - HTTP com Node.js_
+:heavy_check_mark: 22-4: _Express - HTTP com Node.js_
 
 :white_check_mark: 22-5: _Express - Middlewares_
 
