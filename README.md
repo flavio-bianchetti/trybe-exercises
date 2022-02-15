@@ -263,7 +263,7 @@
 
 :heavy_check_mark: 22-4: _Express - HTTP with Node.js_
 
-:white_check_mark: 22-5: _Express - Middlewares_
+:heavy_check_mark: 22-5: _Express - Middlewares_
 
 :white_check_mark: 22-6: _Project - Talker Manager_
 
@@ -700,7 +700,7 @@
 
 :heavy_check_mark: 22-4: _Express - HTTP com Node.js_
 
-:white_check_mark: 22-5: _Express - Middlewares_
+:heavy_check_mark: 22-5: _Express - Middlewares_
 
 :white_check_mark: 22-6: _Projeto - Talker Manager_
 
