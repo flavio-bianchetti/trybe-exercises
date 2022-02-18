@@ -265,12 +265,12 @@
 
 :heavy_check_mark: 22-5: _Express - Middlewares_
 
-:white_check_mark: 22-6: _Project - Talker Manager_
+:heavy_check_mark: 22-6: _Project - Talker Manager_
 
  
-### Block 23: Introduction - Node.js: Service Layer and Rest and Restful Architecture
+### [Block 23: Introduction - Node.js: Service Layer and Rest and Restful Architecture](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/back-end/bloco-23-nodejs-camada-de-servico-e-arquitetura-rest-e-restful/)
 
-:white_check_mark: 23-1: _Software Architecture - Model Layer_
+:heavy_check_mark: 23-1: _Software Architecture - Model Layer_
 
 :white_check_mark: 23-2: _Software Architecture - Controller and Service Layer_
 
@@ -367,7 +367,7 @@
  
 ### Bloco 32: Introduction - Computer Science
 
-:white_check_mark:  32-1: _Computer Architecture_
+:white_check_mark: 32-1: _Computer Architecture_
 
 :white_check_mark: 32-2: _Network_
 
@@ -702,12 +702,12 @@
 
 :heavy_check_mark: 22-5: _Express - Middlewares_
 
-:white_check_mark: 22-6: _Projeto - Talker Manager_
+:heavy_check_mark: 22-6: _Projeto - Talker Manager_
 
  
-### Bloco 23: Introdução - Node.js: Camada de Serviço e Arquitetura Rest e Restful
+### [Bloco 23: Introdução - Node.js: Camada de Serviço e Arquitetura Rest e Restful](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/back-end/bloco-23-nodejs-camada-de-servico-e-arquitetura-rest-e-restful/)
 
-:white_check_mark: 23-1: _Arquitetura de Software - Camada de Model_
+:heavy_check_mark: 23-1: _Arquitetura de Software - Camada de Model_
 
 :white_check_mark: 23-2: _Arquitetura de Software - Camada de Controller e Service_
 
