@@ -274,7 +274,7 @@
 
 :heavy_check_mark: 23-2: _Software Architecture - Controller and Service Layer_
 
-:white_check_mark: 23-3: _Web Architecture - Rest and Restful_
+:heavy_check_mark: 23-3: _Web Architecture - Rest and Restful_
 
 :white_check_mark: 23-4: _Software Architecture - Testing the Layers_
 
@@ -711,7 +711,7 @@
 
 :heavy_check_mark: 23-2: _Arquitetura de Software - Camada de Controller e Service_
 
-:white_check_mark: 23-3: _Arquitetura Web - Rest e Restful_
+:heavy_check_mark: 23-3: _Arquitetura Web - Rest e Restful_
 
 :white_check_mark: 23-4: _Arquitetura de Software - Testando as Camadas_
 
