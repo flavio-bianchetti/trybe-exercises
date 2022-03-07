@@ -276,9 +276,9 @@
 
 :heavy_check_mark: 23-3: _Web Architecture - Rest and Restful_
 
-:white_check_mark: 23-4: _Software Architecture - Testing the Layers_
+:heavy_check_mark: 23-4: _Software Architecture - Testing the Layers_
 
-:white_check_mark: 23-5: _Project - Store Manager_
+:heavy_check_mark: 23-5: _Project - Store Manager_
 
 ### Block 24: Node.js: ORM and Authentication
 
@@ -713,9 +713,9 @@
 
 :heavy_check_mark: 23-3: _Arquitetura Web - Rest e Restful_
 
-:white_check_mark: 23-4: _Arquitetura de Software - Testando as Camadas_
+:heavy_check_mark: 23-4: _Arquitetura de Software - Testando as Camadas_
 
-:white_check_mark: 23-5: _Projeto - Store Manager_
+:heavy_check_mark: 23-5: _Projeto - Store Manager_
 
 ### Bloco 24: Node.js: ORM e Autenticação
 
