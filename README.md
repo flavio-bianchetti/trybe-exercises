@@ -280,9 +280,9 @@
 
 :heavy_check_mark: 23-5: _Project - Store Manager_
 
-### Block 24: Node.js: ORM and Authentication
+### [Block 24: Node.js: ORM and Authentication](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/back-end/bloco-24-nodejs-orm-autenticacao)
 
-:white_check_mark: 24-1: _ORM - Application interface with database_
+:heavy_check_mark: 24-1: _ORM - Application interface with database_
 
 :white_check_mark: 24-2: _ORM - Associations_
 
@@ -717,9 +717,9 @@
 
 :heavy_check_mark: 23-5: _Projeto - Store Manager_
 
-### Bloco 24: Node.js: ORM e Autenticação
+### [Bloco 24: Node.js: ORM e Autenticação](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/back-end/bloco-24-nodejs-orm-autenticacao)
 
-:white_check_mark: 24-1: _ORM - Interface da aplicação com o banco de dados_
+:heavy_check_mark: 24-1: _ORM - Interface da aplicação com o banco de dados_
 
 :white_check_mark: 24-2: _ORM - Associations_
 
