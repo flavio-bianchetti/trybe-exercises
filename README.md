@@ -284,7 +284,7 @@
 
 :heavy_check_mark: 24-1: _ORM - Application interface with database_
 
-:white_check_mark: 24-2: _ORM - Associations_
+:heavy_check_mark: 24-2: _ORM - Associations_
 
 :white_check_mark: 24-3: _JWT - (JSON Web Token)_
 
@@ -721,7 +721,7 @@
 
 :heavy_check_mark: 24-1: _ORM - Interface da aplicação com o banco de dados_
 
-:white_check_mark: 24-2: _ORM - Associations_
+:heavy_check_mark: 24-2: _ORM - Associations_
 
 :white_check_mark: 24-3: _JWT - (JSON Web Token)_
 
