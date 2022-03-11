@@ -286,9 +286,9 @@
 
 :heavy_check_mark: 24-2: _ORM - Associations_
 
-:white_check_mark: 24-3: _JWT - (JSON Web Token)_
+:heavy_check_mark: 24-3: _JWT - (JSON Web Token)_
 
-:white_check_mark: 24-4: _Testing APIs with Integration Tests_
+:heavy_check_mark: 24-4: _Testing APIs with Integration Tests_
 
 :white_check_mark: 24-5: _Project - Blogs API_
 
@@ -723,9 +723,9 @@
 
 :heavy_check_mark: 24-2: _ORM - Associations_
 
-:white_check_mark: 24-3: _JWT - (JSON Web Token)_
+:heavy_check_mark: 24-3: _JWT - (JSON Web Token)_
 
-:white_check_mark: 24-4: _Testando APIs com Testes de Integração_
+:heavy_check_mark: 24-4: _Testando APIs com Testes de Integração_
 
 :white_check_mark: 24-5: _Projeto - API de Blogs_
 
