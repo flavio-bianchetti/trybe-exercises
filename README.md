@@ -290,14 +290,14 @@
 
 :heavy_check_mark: 24-4: _Testing APIs with Integration Tests_
 
-:white_check_mark: 24-5: _Project - Blogs API_
+:heavy_check_mark: 24-5: _Project - Blogs API_
 
   
 ### Block 25: Deployment
 
-:white_check_mark: 25-1: _Infrastructure - Deploy with Heroku_
+:heavy_check_mark: 25-1: _Infrastructure - Deploy with Heroku_
 
-:white_check_mark: 25-2: _Deploy Docker & Heroku_
+:heavy_check_mark: 25-2: _Deploy Docker & Heroku_
 
 :white_check_mark: 25-3: _Project - Stranger Things_
  
@@ -727,14 +727,14 @@
 
 :heavy_check_mark: 24-4: _Testando APIs com Testes de Integração_
 
-:white_check_mark: 24-5: _Projeto - API de Blogs_
+:heavy_check_mark: 24-5: _Projeto - API de Blogs_
 
   
 ### Bloco 25: Deployment
 
-:white_check_mark: 25-1: _Infraestrutura - Deploy com Heroku_
+:heavy_check_mark: 25-1: _Infraestrutura - Deploy com Heroku_
 
-:white_check_mark: 25-2: _Deploy Docker & Heroku_
+:heavy_check_mark: 25-2: _Deploy Docker & Heroku_
 
 :white_check_mark: 25-3: _Projeto - Stranger Things_
  
