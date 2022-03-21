@@ -293,7 +293,7 @@
 :heavy_check_mark: 24-5: _Project - Blogs API_
 
   
-### Block 25: Deployment
+### [Block 25: Deployment](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/back-end/bloco-25-deployment)
 
 :heavy_check_mark: 25-1: _Infrastructure - Deploy with Heroku_
 
@@ -730,7 +730,7 @@
 :heavy_check_mark: 24-5: _Projeto - API de Blogs_
 
   
-### Bloco 25: Deployment
+### [Bloco 25: Deployment](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/back-end/bloco-25-deployment)
 
 :heavy_check_mark: 25-1: _Infraestrutura - Deploy com Heroku_
 
