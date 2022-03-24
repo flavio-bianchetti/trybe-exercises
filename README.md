@@ -299,11 +299,11 @@
 
 :heavy_check_mark: 25-2: _Deploy Docker & Heroku_
 
-:white_check_mark: 25-3: _Project - Stranger Things_
+:heavy_check_mark: 25-3: _Project - Stranger Things_
  
-### Block 26: TypeScript
+### [Block 26: TypeScript](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/back-end/bloco-26-typescript)
 
-:white_check_mark: 26-1: _Introduction to TypeScript_
+:heavy_check_mark: 26-1: _Introduction to TypeScript_
 
 :white_check_mark: 26-2: _Static Typing and Generics_
 
@@ -736,11 +736,11 @@
 
 :heavy_check_mark: 25-2: _Deploy Docker & Heroku_
 
-:white_check_mark: 25-3: _Projeto - Stranger Things_
+:heavy_check_mark: 25-3: _Projeto - Stranger Things_
  
-### Bloco 26: TypeScript
+### [Bloco 26: TypeScript](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/back-end/bloco-26-typescript)
 
-:white_check_mark: 26-1: _Introdução ao TypeScript_
+:heavy_check_mark: 26-1: _Introdução ao TypeScript_
 
 :white_check_mark: 26-2: _Tipagem Estática e Generics_
 
