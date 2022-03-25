@@ -305,7 +305,7 @@
 
 :heavy_check_mark: 26-1: _Introduction to TypeScript_
 
-:white_check_mark: 26-2: _Static Typing and Generics_
+:heavy_check_mark: 26-2: _Static Typing and Generics_
 
 :white_check_mark: 26-3: _Express with TypeScript_
 
@@ -742,7 +742,7 @@
 
 :heavy_check_mark: 26-1: _Introdução ao TypeScript_
 
-:white_check_mark: 26-2: _Tipagem Estática e Generics_
+:heavy_check_mark: 26-2: _Tipagem Estática e Generics_
 
 :white_check_mark: 26-3: _Express com TypeScript_
 
