@@ -307,9 +307,9 @@
 
 :heavy_check_mark: 26-2: _Static Typing and Generics_
 
-:white_check_mark: 26-3: _Express with TypeScript_
+:heavy_check_mark: 26-3: _Express with TypeScript_
 
-:white_check_mark: 26-4: _Project - Trybe Smith_
+:heavy_check_mark: 26-4: _Project - Trybe Smith_
 
 
 ### Block 27: Object Oriented Programming (OOP) and SOLID
@@ -744,9 +744,9 @@
 
 :heavy_check_mark: 26-2: _Tipagem Estática e Generics_
 
-:white_check_mark: 26-3: _Express com TypeScript_
+:heavy_check_mark: 26-3: _Express com TypeScript_
 
-:white_check_mark: 26-4: _Projeto - Trybe Smith_
+:heavy_check_mark: 26-4: _Projeto - Trybe Smith_
 
 
 ### Bloco 27: Programação Orientada a Objetos (POO) e SOLID
