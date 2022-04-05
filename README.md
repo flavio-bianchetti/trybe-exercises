@@ -312,9 +312,9 @@
 :heavy_check_mark: 26-4: _Project - Trybe Smith_
 
 
-### Block 27: Object Oriented Programming (OOP) and SOLID
+### [Block 27: Object Oriented Programming (OOP) and SOLID](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/back-end/bloco-27-poo-solid)
 
-:white_check_mark: 27-1: _Introduction to Object Orientation_
+:heavy_check_mark: 27-1: _Introduction to Object Orientation_
 
 :white_check_mark: 27-2: _Inheritance and Interfaces_
 
@@ -749,9 +749,9 @@
 :heavy_check_mark: 26-4: _Projeto - Trybe Smith_
 
 
-### Bloco 27: Programação Orientada a Objetos (POO) e SOLID
+### [Bloco 27: Programação Orientada a Objetos (POO) e SOLID](https://github.com/flavio-bianchetti/trybe-exercises/tree/master/back-end/bloco-27-poo-solid)
 
-:white_check_mark: 27-1: _Introdução à Orientação a Objetos_
+:heavy_check_mark: 27-1: _Introdução à Orientação a Objetos_
 
 :white_check_mark: 27-2: _Herança e Interfaces_
 
