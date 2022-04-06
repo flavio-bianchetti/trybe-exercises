@@ -316,7 +316,7 @@
 
 :heavy_check_mark: 27-1: _Introduction to Object Orientation_
 
-:white_check_mark: 27-2: _Inheritance and Interfaces_
+:heavy_check_mark: 27-2: _Inheritance and Interfaces_
 
 :white_check_mark: 27-3: _Polymorphism_
 
@@ -753,7 +753,7 @@
 
 :heavy_check_mark: 27-1: _Introdução à Orientação a Objetos_
 
-:white_check_mark: 27-2: _Herança e Interfaces_
+:heavy_check_mark: 27-2: _Herança e Interfaces_
 
 :white_check_mark: 27-3: _Polimorfismo_
 
