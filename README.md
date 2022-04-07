@@ -318,7 +318,7 @@
 
 :heavy_check_mark: 27-2: _Inheritance and Interfaces_
 
-:white_check_mark: 27-3: _Polymorphism_
+:heavy_check_mark: 27-3: _Polymorphism_
 
 :white_check_mark: 27-4: _SOLID - Introduction and Principles S, O and D_
 
@@ -755,7 +755,7 @@
 
 :heavy_check_mark: 27-2: _Herança e Interfaces_
 
-:white_check_mark: 27-3: _Polimorfismo_
+:heavy_check_mark: 27-3: _Polimorfismo_
 
 :white_check_mark: 27-4: _SOLID - Introdução e Princípios S, O e D_
 
