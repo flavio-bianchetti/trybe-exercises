@@ -320,7 +320,7 @@
 
 :heavy_check_mark: 27-3: _Polymorphism_
 
-:white_check_mark: 27-4: _SOLID - Introduction and Principles S, O and D_
+:heavy_check_mark: 27-4: _SOLID - Introduction and Principles S, O and D_
 
 :white_check_mark: 27-5: _SOLID - L and I Principles_
 
@@ -757,7 +757,7 @@
 
 :heavy_check_mark: 27-3: _Polimorfismo_
 
-:white_check_mark: 27-4: _SOLID - Introdução e Princípios S, O e D_
+:heavy_check_mark: 27-4: _SOLID - Introdução e Princípios S, O e D_
 
 :white_check_mark: 27-5: _SOLID - Princípios L e I_
 
