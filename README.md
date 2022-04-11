@@ -322,7 +322,7 @@
 
 :heavy_check_mark: 27-4: _SOLID - Introduction and Principles S, O and D_
 
-:white_check_mark: 27-5: _SOLID - L and I Principles_
+:heavy_check_mark: 27-5: _SOLID - L and I Principles_
 
 :white_check_mark: 27-6: _Project - Trybers and Dragons_
 
@@ -759,7 +759,7 @@
 
 :heavy_check_mark: 27-4: _SOLID - Introdução e Princípios S, O e D_
 
-:white_check_mark: 27-5: _SOLID - Princípios L e I_
+:heavy_check_mark: 27-5: _SOLID - Princípios L e I_
 
 :white_check_mark: 27-6: _Projeto - Trybers and Dragons_
 
